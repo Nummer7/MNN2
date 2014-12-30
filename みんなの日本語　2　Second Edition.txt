@@ -1,0 +1,129 @@
+見ます	<div>みます</div>to check, II	L26 L26NEX
+診ます	<div>みます</div>to check, II	L26 L26NEX
+探します	<div>さがします</div>to look for, I	L26 L26NEX
+捜します	<div>さがします</div>to search, I	L26 L26NEX
+[ 時間に～ ]　遅れます	<div>[ じかん～ ]　おくれます</div>to be late [ for an appointment, etc. ], II	L26 L26NEX
+[ 時間に～ ]　間に合います	[ じかんに～ ]　まにあいます<div>to be in time [ for an appointment, etc. ], I</div>	L26 L26NEX
+やります	to do, I	L26 L26NEX
+[ パーティーに～ ]　参加します	[ パーティーに～ ] さんかします<div>to attend [ a party ], III</div>	L26 L26NEX
+申し込みます	もうしこみます<div>to apply for, to enter for, I</div>	L26 L26NEX
+都合が　いい	つごうが　わるい<div>convenient (concerning time)</div>	L26 L26NEX
+都合が　悪い	つごうが　わるい<div>inconvenient (concerning time)</div>	L26 L26NEX
+気分が　いい	きぶんが　いい<div>feel well</div>	L26 L26NEX
+気分が　わるい	きぶんが　わるい<div>feel ill</div>	L26 L26NEX
+新聞社	しんぶんしゃ<div>newspaper publishing company, newspaper office</div>	L26 L26NEX
+柔道	じゅうどう<div>Judo</div>	L26 L26NEX
+運動会	うんどうかい<div>athelic meeting</div>	L26 L26NEX
+場所	ばしょ<div>place</div>	L26 L26NEX
+ボランティア	ぼらんてぃあ<div>volunteer</div>	L26 L26NEX
+～弁	～べん<div>～dialect</div>	L26 L26NEX
+今度	こんど<div>next time, another time</div>	L26 L26NEX
+ずいぶん	ずいぶん<div>pretty, very</div>	L26 L26NEX
+直接	ちょくせつ<div>directly</div>	L26 L26NEX
+いつでも	<div>いつでも</div>any time	L26 L26NEX
+どこでも	どこでも<div>anywhere</div>	L26 L26NEX
+だれでも	だれでも<div>anybody</div>	L26 L26NEX
+何でも	なんでも<div>anything</div>	L26 L26NEX
+[ 荷物が～ ]　片づきます	[ にもつが～ ]　かたづきます<div>[ boxes ] to be put in order, I</div>	L26 L26NEX
+ごみ	ごみ<div>garbage, trash, dust</div>	L26 L26NEX
+[ ごみを～ ]　出します	[ ごみを～ ]　だします<div>to put out [ the trash ], I</div>	L26 L26NEX
+[ ごみが～ ]　燃えます	[ ごみが～ ]　もえます<div>to burn [ trash ]</div>	L26 L26NEX
+月•水•金	Monday, Wednesday and Friday	L26 L26NEX
+置き場	おきば<div>place where something is put</div>	L26 L26NEX
+横	よこ<div>side</div>	L26 L26NEX
+瓶	びん<div>bottle</div>	L26 L26NEX
+缶	かん<div>can</div>	L26 L26NEX
+[ お ] 湯	[ お ] ゆ<div>hot water</div>	L26 L26NEX
+ガス	がす<div>gas</div>	L26 L26NEX
+～会社	～かいしゃ<div>～company</div>	L26 L26NEX
+連絡します	れんらくします<div>to contact, III</div>	L26 L26NEX
+困ったなあ。	こまったなあ。<div>Whats shall I do?</div>	L26 L26NEX
+電子メール	でんしメール<div>electronic mail</div>	L26 L26NEX
+宇宙	うちゅう<div>space, universe</div>	L26 L26NEX
+怖い	こわい<div>to be afraid of</div>	L26 L26NEX
+宇宙船	うちゅうせん<div>spaceship</div>	L26 L26NEX
+別の	べつの<div>another</div>	L26 L26NEX
+宇宙飛行士	うちゅうひこうし<div>astronaut</div>	L26 L26NEX
+紙くず	かみくず<div>paper</div>	L26 L26EX
+生ごみ	なまごみ<div>garbage</div>	L26 L26EX
+可燃ごみ　(燃えるごみ)	かねんごみ　(もえるごみ)<div>Combustible Refuse</div>	L26 L26EX
+収集日	しゅうしゅうび<div>collection days</div>	L26 L26EX
+不燃ごみ (燃えないごみ)	ふねんごみ　(もえないごみ)<div>Non-combustible Refuse</div>	L26 L26EX
+ガラス製品	カラスせいひん<div>glass</div>	L26 L26EX
+プラスチック製品	プラスチックせいひん<div>plastics</div>	L26 L26EX
+金属盛台所用品	きんぞくせいだいところようひん<div>metal kitchen utensils</div>	L26 L26EX
+粗大ごみ	そだいごみ<div>Bulky Refuse</div>	L26 L26EX
+家具	かぐ<div>scrap furniture</div>	L26 L26EX
+家庭電化製品	<div>かていでんかせいひん</div>electrical appliances	L26 L26EX
+自転車	じてんしゃ<div>bicycles</div>	L26 L26EX
+資源ごみ	しげんごみ<div>Recyclable Refuse</div>	L26 L26EX
+空き缶	あきかん<div>cans</div>	L26 L26EX
+空きびん	あきびん<div>bottles</div>	L26 L26EX
+古新聞	ふるしんぶん<div>newspaper</div>	L26 L26EX
+飼います	かいます<div>to keep (a pet), to raise (an animal), I</div>	L27 L27NEX
+建てます	たてます<div>to build, II</div>	L27 L27NEX
+[ 道を～ ] 走ります	[ みちを～ ]　はしります<div>to run, to drive [along a road], I</div>	L27 L27NEX
+[ 休みを～ ] 取ります	[ やすみを～ ]　とります<div>to take [a holiday], I</div>	L27 L27NEX
+[ 山が～ ]　見えます	[ やまが～ ]　みえます<div>[a mountain] can be seen, II</div>	L27 L27NEX
+[ 音が～ ]　聞えます	[ おとが～ ]　きこえます<div>[a sound] can be heard, II</div>	L27 L27NEX
+[ 空港が～ ]　できます	[ くうこうが～ ]　できます<div>[an airport] to be made, to be completed, to come into existence, II</div>	L27 L27NEX
+[ 教室を～ ]　開きます	[ きょうしつを～ ]　ひらきます<div>to set up [a class], to open, to hold, I</div>	L27 L27NEX
+ペット	ぺっと<div>pet</div>	L27 L27NEX
+鳥	とり<div>bird</div>	L27 L27NEX
+声	こえ<div>voice</div>	L27 L27NEX
+波	なみ<div>wave</div>	L27 L27NEX
+花火	はなび<div>fireworks</div>	L27 L27NEX
+景色	けしき<div>scenery, view</div>	L27 L27NEX
+昼間	ひるま<div>daytime</div>	L27 L27NEX
+昔	むかし<div>old days, ancient times</div>	L27 L27NEX
+道具	どうぐ<div>tool, instrument, equipment</div>	L27 L27NEX
+自動販売機	じどうはんばいき<div>vending machine</div>	L27 L27NEX
+通信販売	つうしんはんばい<div>mail order, mail-order sales</div>	L27 L27NEX
+クリーニング	くりーにんぐ<div>(dry) cleaning, laundry</div>	L27 L27NEX
+マンション	まんしょん<div>apartment</div>	L27 L27NEX
+台所	だいどころ<div>kitchen</div>	L27 L27NEX
+～教室	～きょうしつ<div>～class</div>	L27 L27NEX
+パーティールーム	ぱーてぃーるーむ<div>party room</div>	L27 L27NEX
+～後	～ご<div>after～ (duration of time)</div>	L27 L27NEX
+～しか	～しか<div>only～ (used with negatives)</div>	L27 L27NEX
+ほかの	ほかの<div>other</div>	L27 L27NEX
+はっきり	はっきり<div>clearly</div>	L27 L27NEX
+ほとんど	ほとんど<div>almost all (in affirmative sentences), hardly, scarcely (in negative sentences)</div>	L27 L27NEX
+関西空港	かんさいくうこう<div>Kansai international airport</div>	L27 L27NEX
+秋葉原	あきはばら<div>Tokyo shopping district (electrical, otaku culture)</div>	L27 L27NEX
+日曜日大工	にちようびだいく<div>someone who does carpenting as a hobby</div>	L27 L27NEX
+本棚	ほんだな<div>bookshelf</div>	L27 L27NEX
+夢	ゆめ<div>dream (～をみます：have a dream)</div>	L27 L27NEX
+いつか	いつか<div>someday, sometime</div>	L27 L27NEX
+家	いえ<div>house, home</div>	L27 L27NEX
+すばらしい	すばらしい<div>marvelous, wonderful</div>	L27 L27NEX
+子供たち	こどもたち<div>children</div>	L27 L27NEX
+大好き[ な&nbsp;]	だいすき [ な ]<div>like very much</div>	L27 L27NEX
+漫画	まんが<div>Manga</div>	L27 L27NEX
+主人公	しゅじんこう<div>hero, heroine</div>	L27 L27NEX
+形	かたち<div>shape</div>	L27 L27NEX
+ロボット	ろぼっと<div>robot</div>	L27 L27NEX
+不思議 [な]	ふしぎ [な]<div>fantastic, mysterious</div>	L27 L27NEX
+ポケット	ぽけっと<div>pocket</div>	L27 L27NEX
+例えば	たとえば<div>for example</div>	L27 L27NEX
+付けます	つけます<div>to attach, to put on, II</div>	L27 L27NEX
+自由	じゆう<div>freely</div>	L27 L27NEX
+空	そら<div>sky</div>	L27 L27NEX
+飛びます	とびます<div>fly</div>	L27 L27NEX
+自分	じぶん<div>oneself</div>	L27 L27NEX
+将来	しょうらい<div>future</div>	L27 L27NEX
+クリーニング屋	くりーにんぐや<div>Cleaners</div>	L27 L27EX
+ドライクリーニング	どらいくりーにんぐ<div>dry cleaning</div>	L27 L27EX
+水洗い	<div>みずあらい</div>laundering	L27 L27EX
+染み抜き	しみぬき<div>stain removal</div>	L27 L27EX
+放水加工	ほうすいかこう<div>waterproof</div>	L27 L27EX
+サイズ直し	<div>サイズなおし</div>alterations	L27 L27EX
+縮む	ちぢむ<div>shrink</div>	L27 L27EX
+伸びる	のびる<div>stretch</div>	L27 L27EX
+コンビニ	こんびに<div>Convenience store</div>	L27 L27EX
+宅配便の受付	たくはいびんのうけつけ<div>delivery service</div>	L27 L27EX
+写真現像	しゃしんげんぞう<div>photo developing</div>	L27 L27EX
+公共料金振り込む	<div>こうきょうりょうきんふりこむ</div>payment of utility charges	L27 L27EX
+コピー、ファクス	<div>コピー、ファクス</div>photoshop, fax	L27 L27EX
+はがき、切手の販売	はがき、きってのはんばい<div>sale of postcards and stamps</div>	L27 L27EX
+コンサートチケットの販売	こんさーとちけっとのはんばい<div>sale of concert tickets</div>	L27 L27EX
