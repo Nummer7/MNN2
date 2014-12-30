@@ -1,19 +1,21 @@
-見ます	<div>みます</div>to check, II	L26 L26NEX
-診ます	<div>みます</div>to check, II	L26 L26NEX
-探します	<div>さがします</div>to look for, I	L26 L26NEX
-捜します	<div>さがします</div>to search, I	L26 L26NEX
+見ます	<div>みます</div>to check, to examine II	L26 L26NEX
+診ます	<div>みます</div>to examine (medically), II	L26 L26NEX
+探します	<div>さがします</div>to search, to look for, I	L26 L26NEX
+捜します	<div>さがします</div>to search (for something lost) I	L26 L26NEX
 [ 時間に～ ]　遅れます	<div>[ じかん～ ]　おくれます</div>to be late [ for an appointment, etc. ], II	L26 L26NEX
 [ 時間に～ ]　間に合います	[ じかんに～ ]　まにあいます<div>to be in time [ for an appointment, etc. ], I</div>	L26 L26NEX
 やります	to do, I	L26 L26NEX
 [ パーティーに～ ]　参加します	[ パーティーに～ ] さんかします<div>to attend [ a party ], III</div>	L26 L26NEX
-申し込みます	もうしこみます<div>to apply for, to enter for, I</div>	L26 L26NEX
-都合が　いい	つごうが　わるい<div>convenient (concerning time)</div>	L26 L26NEX
+申し込みます	もうしこみます<div>to apply (for something) I</div>	L26 L26NEX
+都合	つごう<div>conditions, circumstances, convenience</div>	L26 L26NEX
+都合が　いい	つごうが　いい<div>convenient (concerning time)</div>	L26 L26NEX
 都合が　悪い	つごうが　わるい<div>inconvenient (concerning time)</div>	L26 L26NEX
-気分が　いい	きぶんが　いい<div>feel well</div>	L26 L26NEX
-気分が　わるい	きぶんが　わるい<div>feel ill</div>	L26 L26NEX
+気分	きぶん	feeling, mood	L26 L26NEX
+気分が　いい	きぶんが　いい<div>to&nbsp;feel well</div>	L26 L26NEX
+気分が　わるい	きぶんが　わるい<div>to feel ill</div>	L26 L26NEX
 新聞社	しんぶんしゃ<div>newspaper publishing company, newspaper office</div>	L26 L26NEX
 柔道	じゅうどう<div>Judo</div>	L26 L26NEX
-運動会	うんどうかい<div>athelic meeting</div>	L26 L26NEX
+運動会	うんどうかい<div>athletic meeting</div>	L26 L26NEX
 場所	ばしょ<div>place</div>	L26 L26NEX
 ボランティア	ぼらんてぃあ<div>volunteer</div>	L26 L26NEX
 ～弁	～べん<div>～dialect</div>	L26 L26NEX
@@ -32,31 +34,31 @@
 置き場	おきば<div>place where something is put</div>	L26 L26NEX
 横	よこ<div>side</div>	L26 L26NEX
 瓶	びん<div>bottle</div>	L26 L26NEX
-缶	かん<div>can</div>	L26 L26NEX
+缶	かん<div>can, tincan</div>	L26 L26NEX
 [ お ] 湯	[ お ] ゆ<div>hot water</div>	L26 L26NEX
 ガス	がす<div>gas</div>	L26 L26NEX
 ～会社	～かいしゃ<div>～company</div>	L26 L26NEX
-連絡します	れんらくします<div>to contact, III</div>	L26 L26NEX
+連絡します	れんらくします<div>contact, III</div>	L26 L26NEX
 困ったなあ。	こまったなあ。<div>Whats shall I do?</div>	L26 L26NEX
 電子メール	でんしメール<div>electronic mail</div>	L26 L26NEX
 宇宙	うちゅう<div>space, universe</div>	L26 L26NEX
-怖い	こわい<div>to be afraid of</div>	L26 L26NEX
+怖い	こわい<div>be afraid of</div>	L26 L26NEX
 宇宙船	うちゅうせん<div>spaceship</div>	L26 L26NEX
 別の	べつの<div>another</div>	L26 L26NEX
 宇宙飛行士	うちゅうひこうし<div>astronaut</div>	L26 L26NEX
 紙くず	かみくず<div>paper</div>	L26 L26EX
 生ごみ	なまごみ<div>garbage</div>	L26 L26EX
-可燃ごみ　(燃えるごみ)	かねんごみ　(もえるごみ)<div>Combustible Refuse</div>	L26 L26EX
+可燃ごみ　(燃えるごみ)	かねんごみ　(もえるごみ)<div>combustible refuse</div>	L26 L26EX
 収集日	しゅうしゅうび<div>collection days</div>	L26 L26EX
-不燃ごみ (燃えないごみ)	ふねんごみ　(もえないごみ)<div>Non-combustible Refuse</div>	L26 L26EX
+不燃ごみ (燃えないごみ)	ふねんごみ　(もえないごみ)<div>non-combustible refuse</div>	L26 L26EX
 ガラス製品	カラスせいひん<div>glass</div>	L26 L26EX
 プラスチック製品	プラスチックせいひん<div>plastics</div>	L26 L26EX
 金属盛台所用品	きんぞくせいだいところようひん<div>metal kitchen utensils</div>	L26 L26EX
-粗大ごみ	そだいごみ<div>Bulky Refuse</div>	L26 L26EX
+粗大ごみ	そだいごみ<div>bulky refuse</div>	L26 L26EX
 家具	かぐ<div>scrap furniture</div>	L26 L26EX
 家庭電化製品	<div>かていでんかせいひん</div>electrical appliances	L26 L26EX
 自転車	じてんしゃ<div>bicycles</div>	L26 L26EX
-資源ごみ	しげんごみ<div>Recyclable Refuse</div>	L26 L26EX
+資源ごみ	しげんごみ<div>recyclable refuse</div>	L26 L26EX
 空き缶	あきかん<div>cans</div>	L26 L26EX
 空きびん	あきびん<div>bottles</div>	L26 L26EX
 古新聞	ふるしんぶん<div>newspaper</div>	L26 L26EX
