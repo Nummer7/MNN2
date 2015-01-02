@@ -7,7 +7,7 @@
 やります	やります	to do, I	L26 L26NEX
 [ パーティーに～ ]　参加します	[ パーティーに～ ] さんかします	to attend [ a party ], III	L26 L26NEX
 申し込みます	もうしこみます	to apply for, to enter for, I	L26 L26NEX
-都合が　いい	つごうが　わるい	convenient (concerning time)	L26 L26NEX
+都合が　いい	つごうが　いい	convenient (concerning time)	L26 L26NEX
 都合が　悪い	つごうが　わるい	inconvenient (concerning time)	L26 L26NEX
 気分が　いい	きぶんが　いい	feel well	L26 L26NEX
 気分が　わるい	きぶんが　わるい	feel ill	L26 L26NEX
