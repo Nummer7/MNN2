@@ -1,5 +1,7 @@
 MNN2
 ====
+みんなの日本語2EN.apkg
+みんなの日本語2EN.txt
 Minna no nihongo 2 vocabulary, lectures 26-50, plus extra vocab from the book (lecture 26 - 35, except for L28 and L30)
 mandatory Vocab is tagged with L<lecturenNumber>NEX and tagged with L<lectureNumber>
 extra vocab is tagged with L<lecturenNumber>EX and tagged with L<lectureNumber>
