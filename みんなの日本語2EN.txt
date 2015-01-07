@@ -376,8 +376,8 @@
 晴れます	はれます	to clear up, II	L32 L32NEX
 曇ります	くもります	to get cloudy, I	L32 L32NEX
 [ 風が～ ]　吹きます	[ かぜが～ ]　ふきます	to blow [wind], I	L32 L32NEX
-[ 病気が～ ]　治ります	[ びょうきが～ ]　なおります	to recover from [sickness], to get well, I	L32 L32NEX
-[ 故障が～ ]　直ります	[ こしょうが～ ]　なおります	to be fixed, to be prepaired, I	L32 L32NEX
+[ 病気が～ ]　治します	[ びょうきが～ ]　なおします	to recover from [sickness], to get well, I	L32 L32NEX
+[ 故障が～ ]　直します	[ こしょうが～ ]　なおします	to be fixed, to be prepaired, I	L32 L32NEX
 [ 熱が～ ]　続きます	[ ねつが～ ]　つづきます	[high temperature] to continue, I	L32 L32NEX
 [ 風を～ ]　ひきます	[ かぜを～ ]　ひきます	to catch [a cold], I	L32 L32NEX
 冷やします	ひやします	to cool, I	L32 L32NEX
