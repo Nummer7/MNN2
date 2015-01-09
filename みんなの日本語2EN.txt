@@ -66,7 +66,7 @@
 [ 休みを～ ] 取ります	[ やすみを～ ]　とります	to take [a holiday], I	L27 L27NEX
 [ 山が～ ]　見えます	[ やまが～ ]　みえます	[a mountain] can be seen, II	L27 L27NEX
 [ 音が～ ]　聞えます	[ おとが～ ]　きこえます	[a sound] can be heard, II	L27 L27NEX
-[ 空港が～ ]　できます	[ くうこうが～ ]　できます	[an airport] to be made, to be completed, to come into existence, II	L27 L27NEX
+[ 空港が～ ]　できます	[ くうこうが～ ]　出来ます	[an airport] to be made, to be completed, to come into existence, II	L27 L27NEX
 [ 教室を～ ]　開きます	[ きょうしつを～ ]　ひらきます	to set up [a class], to open, to hold, I	L27 L27NEX
 ペット	ぺっと	pet	L27 L27NEX
 鳥	とり	bird	L27 L27NEX
