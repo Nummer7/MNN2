@@ -1,0 +1,1273 @@
+﻿見る	みる	to check, II	L26 L26NEX
+診る	みる	to check, II	L26 L26NEX
+探す	さがす	to look for, I	L26 L26NEX
+捜す	さがす	to search, I	L26 L26NEX
+[ 時間に～ ]　遅れる	[ じかん～ ]　おくれる	to be late [ for an appointment, etc. ], II	L26 L26NEX
+[ 時間に～ ]　間に合う	[ じかんに～ ]　まにあう	to be in time [ for an appointment, etc. ], I	L26 L26NEX
+やる	やる	to do, I	L26 L26NEX
+[ パーティーに～ ]　参加する	[ パーティーに～ ] さんかする	to attend [ a party ], III	L26 L26NEX
+申し込む	もうしこむ	to apply for, to enter for, I	L26 L26NEX
+都合が　いい	つごうが　いい	convenient (concerning time)	L26 L26NEX
+都合が　悪い	つごうが　わるい	inconvenient (concerning time)	L26 L26NEX
+気分が　いい	きぶんが　いい	feel well	L26 L26NEX
+気分が　わるい	きぶんが　わるい	feel ill	L26 L26NEX
+新聞社	しんぶんしゃ	newspaper publishing company, newspaper office	L26 L26NEX
+柔道	じゅうどう	Judo	L26 L26NEX
+運動会	うんどうかい	athelic meeting	L26 L26NEX
+場所	ばしょ	place	L26 L26NEX
+ボランティア	ぼらんてぃあ	volunteer	L26 L26NEX
+～弁	～べん	～dialect	L26 L26NEX
+今度	こんど	next time, another time	L26 L26NEX
+ずいぶん	ずいぶん	pretty, very	L26 L26NEX
+直接	ちょくせつ	directly	L26 L26NEX
+いつでも	いつでも	any time	L26 L26NEX
+どこでも	どこでも	anywhere	L26 L26NEX
+だれでも	だれでも	anybody	L26 L26NEX
+何でも	なんでも	anything	L26 L26NEX
+[ 荷物が～ ]　片づく	[ にもつが～ ]　かたづきく	[ boxes ] to be put in order, I	L26 L26NEX
+ごみ	ごみ	garbage, trash, dust	L26 L26NEX
+[ ごみを～ ]　出す	[ ごみを～ ]　だす	to put out [ the trash ], I	L26 L26NEX
+[ ごみが～ ]　燃える	[ ごみが～ ]　もえる	to burn [ trash ]	L26 L26NEX
+月•水•金	げつ•すい•きん	Monday, Wednesday and Friday	L26 L26NEX
+置き場	おきば	place where something is put	L26 L26NEX
+横	よこ	side	L26 L26NEX
+瓶	びん	bottle	L26 L26NEX
+缶	かん	can	L26 L26NEX
+[ お ] 湯	[ お ] ゆ	hot water	L26 L26NEX
+ガス	がす	gas	L26 L26NEX
+～会社	～かいしゃ	～company	L26 L26NEX
+連絡する	れんらくする	to contact, III	L26 L26NEX
+困ったなあ。	こまったなあ。	Whats shall I do?	L26 L26NEX
+電子メール	でんしメール	electronic mail	L26 L26NEX
+宇宙	うちゅう	space, universe	L26 L26NEX
+怖い	こわい	to be afraid of	L26 L26NEX
+宇宙船	うちゅうせん	spaceship	L26 L26NEX
+別の	べつの	another	L26 L26NEX
+宇宙飛行士	うちゅうひこうし	astronaut	L26 L26NEX
+紙くず	かみくず	paper	L26 L26EX
+生ごみ	なまごみ	garbage	L26 L26EX
+可燃ごみ　(燃えるごみ)	かねんごみ　(もえるごみ)	Combustible Refuse	L26 L26EX
+収集日	しゅうしゅうび	collection days	L26 L26EX
+不燃ごみ (燃えないごみ)	ふねんごみ　(もえないごみ)	Non-combustible Refuse	L26 L26EX
+ガラス製品	カラスせいひん	glass	L26 L26EX
+プラスチック製品	プラスチックせいひん	plastics	L26 L26EX
+金属盛台所用品	きんぞくせいだいところようひん	metal kitchen utensils	L26 L26EX
+粗大ごみ	そだいごみ	Bulky Refuse	L26 L26EX
+家具	かぐ	scrap furniture	L26 L26EX
+家庭電化製品	かていでんかせいひん	electrical appliances	L26 L26EX
+自転車	じてんしゃ	bicycles	L26 L26EX
+資源ごみ	しげんごみ	Recyclable Refuse	L26 L26EX
+空き缶	あきかん	cans	L26 L26EX
+空きびん	あきびん	bottles	L26 L26EX
+古新聞	ふるしんぶん	newspaper	L26 L26EX
+飼う	かう	to keep (a pet), to raise (an animal), I	L27 L27NEX
+建てる	たてる	to build, II	L27 L27NEX
+[ 道を～ ] 走りる	[ みちを～ ]　はしる	to run, to drive [along a road], I	L27 L27NEX
+[ 休みを～ ] 取る	[ やすみを～ ]　とる	to take [a holiday], I	L27 L27NEX
+[ 山が～ ]　見える	[ やまが～ ]　みえる	[a mountain] can be seen, II	L27 L27NEX
+[ 音が～ ]　聞こえる	[ おとが～ ]　きこえる	[a sound] can be heard, II	L27 L27NEX
+[ 空港が～ ]　できる	[ くうこうが～ ]　できる	[an airport] to be made, to be completed, to come into existence, II	L27 L27NEX
+[ 教室を～ ]　開く	[ きょうしつを～ ]　ひらく	to set up [a class], to open, to hold, I	L27 L27NEX
+ペット	ぺっと	pet	L27 L27NEX
+鳥	とり	bird	L27 L27NEX
+声	こえ	voice	L27 L27NEX
+波	なみ	wave	L27 L27NEX
+花火	はなび	fireworks	L27 L27NEX
+景色	けしき	scenery, view	L27 L27NEX
+昼間	ひるま	daytime	L27 L27NEX
+昔	むかし	old days, ancient times	L27 L27NEX
+道具	どうぐ	tool, instrument, equipment	L27 L27NEX
+自動販売機	じどうはんばいき	vending machine	L27 L27NEX
+通信販売	つうしんはんばい	mail order, mail-order sales	L27 L27NEX
+クリーニング	くりーにんぐ	(dry) cleaning, laundry	L27 L27NEX
+マンション	まんしょん	apartment	L27 L27NEX
+台所	だいどころ	kitchen	L27 L27NEX
+～教室	～きょうしつ	～class	L27 L27NEX
+パーティールーム	ぱーてぃーるーむ	party room	L27 L27NEX
+～後	～ご	after～ (duration of time)	L27 L27NEX
+～しか	～しか	only～ (used with negatives)	L27 L27NEX
+ほかの	ほかの	other	L27 L27NEX
+はっきり	はっきり	clearly	L27 L27NEX
+ほとんど	ほとんど	almost all (in affirmative sentences), hardly, scarcely (in negative sentences)	L27 L27NEX
+関西空港	かんさいくうこう	Kansai international airport	L27 L27NEX
+秋葉原	あきはばら	Tokyo shopping district (electrical, otaku culture)	L27 L27NEX
+日曜日大工	にちようびだいく	someone who does carpenting as a hobby	L27 L27NEX
+本棚	ほんだな	bookshelf	L27 L27NEX
+夢	ゆめ	dream (～をみる：have a dream)	L27 L27NEX
+いつか	いつか	someday, sometime	L27 L27NEX
+家	いえ	house, home	L27 L27NEX
+すばらしい	すばらしい	marvelous, wonderful	L27 L27NEX
+子供たち	こどもたち	children	L27 L27NEX
+大好き[ な&nbsp;]	だいすき [ な ]	like very much	L27 L27NEX
+漫画	まんが	Manga	L27 L27NEX
+主人公	しゅじんこう	hero, heroine	L27 L27NEX
+形	かたち	shape	L27 L27NEX
+ロボット	ろぼっと	robot	L27 L27NEX
+不思議	ふしぎ	fantastic, mysterious	L27 L27NEX
+ポケット	ぽけっと	pocket	L27 L27NEX
+例えば	たとえば	for example	L27 L27NEX
+付ける	つける	to attach, to put on, II	L27 L27NEX
+自由	じゆう	freely	L27 L27NEX
+空	そら	sky	L27 L27NEX
+飛ぶ	とぶ	fly	L27 L27NEX
+自分	じぶん	oneself	L27 L27NEX
+将来	しょうらい	future	L27 L27NEX
+クリーニング屋	くりーにんぐや	Cleaners	L27 L27EX
+ドライクリーニング	どらいくりーにんぐ	dry cleaning	L27 L27EX
+水洗い	みずあらい	laundering	L27 L27EX
+染み抜き	しみぬき	stain removal	L27 L27EX
+放水加工	ほうすいかこう	waterproof	L27 L27EX
+サイズ直し	サイズなおし	alterations	L27 L27EX
+縮む	ちぢむ	shrink	L27 L27EX
+伸びる	のびる	stretch	L27 L27EX
+コンビニ	こんびに	Convenience store	L27 L27EX
+宅配便の受付	たくはいびんのうけつけ	delivery service	L27 L27EX
+写真現像	しゃしんげんぞう	photo developing	L27 L27EX
+公共料金振り込む	こうきょうりょうきんふりこむ	payment of utility charges	L27 L27EX
+コピー、ファクス	コピー、ファクス	photoshop, fax	L27 L27EX
+はがき、切手の販売	はがき、きってのはんばい	sale of postcards and stamps	L27 L27EX
+コンサートチケットの販売	こんさーとちけっとのはんばい	sale of concert tickets	L27 L27EX
+[ パンが～ ] 売れる	[ ぱんが～ ]&nbsp;うれる	[ bread ]&nbsp;to sell, to be sold, II	L28 L28NEX
+踊りる	おどりる	dance, I	L28 L28NEX
+かむ	かむ	to chew, to bite, I	L28 L28NEX
+選ぶ	えらぶ	choose, I	L28 L28NEX
+違う	ちがう	to be different, I	L28 L28NEX
+[ 大学に～ ]&nbsp;通う	[ だいがくに～ ]&nbsp;かよう	to go to and from [ university ], I	L28 L28NEX
+メモする	めもする	to take a memo, III	L28 L28NEX
+まじめ	まじめ	serious	L28 L28NEX
+熱心	ねっしん	earnest	L28 L28NEX
+優しい	やさしい	gentle, kind	L28 L28NEX
+偉い	えらい	great, admireable	L28 L28NEX
+ちょうど　いい	ちょうど　いい	proper, just, right	L28 L28NEX
+習慣	しゅうかん	custom	L28 L28NEX
+経験	けいけん	experience	L28 L28NEX
+力	ちから	power	L28 L28NEX
+人気	にんき	popularity ([がくせいに]　～が　あり　be popular [with students])	L28 L28NEX
+形	かたち	form, shape	L28 L28NEX
+色	いろ	color	L28 L28NEX
+味	あじ	taste	L28 L28NEX
+ガム	がむ	chewing gum	L28 L28NEX
+品物	しなもの	goods	L28 L28NEX
+値段	ねだん	price	L28 L28NEX
+給料	きゅうりょう	salary	L28 L28NEX
+ボーナス	ぼーなす	bonus	L28 L28NEX
+番組	ばんぐみ	program	L28 L28NEX
+ドラマ	どらま	drama	L28 L28NEX
+小説	しょうせつ	novel	L28 L28NEX
+小説家	しょうせつか	novelist	L28 L28NEX
+歌手	かしゅ	singer	L28 L28NEX
+管理人	かんりにん	janitor	L28 L28NEX
+息子	むすこ	(my) son	L28 L28NEX
+息子さん	むすこさん	(someone else's) son	L28 L28NEX
+娘	むすめ	(my) daughter	L28 L28NEX
+娘さん	むすめさん	(someone else's)&nbsp;daughter	L28 L28NEX
+自分	じぶん	oneself	L28 L28NEX
+将来	しょうらい	future	L28 L28NEX
+しばらく	しばらく	a little while	L28 L28NEX
+たいてい	たいてい	usually, mostly	L28 L28NEX
+それに	それに	in addition	L28 L28NEX
+それで	それで	and so	L28 L28NEX
+[ ちょっと ]　お願いが　あるんですが。	[ ちょっと ]　おねがいが　あるんですが。</div><div>I have a favor to ask.		L28 L28NEX
+ホームシテイ	ほーむすてい	homestay	L28 L28NEX
+会話	かいわ	conversation	L28 L28NEX
+おしゃべる	おしゃべる	chat	L28 L28NEX
+お知らせ	おしらせ	notice	L28 L28NEX
+日にち	ひにち	date	L28 L28NEX
+土	ど	saturday	L28 L28NEX
+体育館	たいいくかん	gymnasium	L28 L28NEX
+無料	むりょう	free of charge	L28 L28NEX
+[ ドアが～ ]　開く	[ ドアが～ ]　あく	to open　[a door], I	L29 L29NEX
+[ ドアが～ ]　閉まる	[ ドアが～ ]　しまる	to close, to shut [a door], I	L29 L29NEX
+[ 電気が～ ]　つく	[ でんきが～ ]　つく	to come on [a light], I	L29 L29NEX
+[ 電気が～ ]　消える	[ でんきが～ ]　きえる	to go off, to disappear, II	L29 L29NEX
+[ 道が～ ]　込む	[ みちが～ ]　こむ	to get crowded [a road], I	L29 L29NEX
+[ 道が～ ]　すく	[ みちが～ ]　すく	to get empty [a road], I	L29 L29NEX
+[ 椅子が～ ]　壊れる	[ いすが～ ]　こわれる	to break [a chair], II	L29 L29NEX
+[ コップが～ ] 割れる	[ コップが～ ]　われる	to break, to smash [a glass], II	L29 L29NEX
+[ 木が～ ]　折れる	[ きが～ ]　おれる	to break, to snap [a tree], II	L29 L29NEX
+[ 紙が～ ]　破れる	[ かみが～ ]　やぶれる	to tear [a paper], II	L29 L29NEX
+[ 服が～ ]　汚れる	[ ふくが～ ]　よごれる	to get dirty [the clothes], II	L29 L29NEX
+[ ポケットが～ ]　付く	[ ぽけっとが～ ]　つく	to be attached [a pocket], I	L29 L29NEX
+[ ボタンが～ ]　外れる	[ ぼたんが～ ]　はずれる	to be undone [a button], II	L29 L29NEX
+[ エレベーターが～ ]　止まる	[ &nbsp;えれべーたーが～ ]　とまる	to stop [an elevator], I	L29 L29NEX
+まちがえる	まちがえる	to make a mistake, II	L29 L29NEX
+落とす	おとす	to drop, to lose, II	L29 L29NEX
+[ 鍵が～ ]　掛かる	[ かぎが～ ] かかる	to be locked, I	L29 L29NEX
+[お]　皿	[お]　さら	plate, dish	L29 L29NEX
+[お]　ちゃわん	[お]　ちゃわん	rice bowl	L29 L29NEX
+コップ	こっぷ	glass (vessel)	L29 L29NEX
+ガラス	がらす	glass (material)	L29 L29NEX
+袋	ふくろ	bag	L29 L29NEX
+財布	さいふ	wallet, purse	L29 L29NEX
+枝	えだ	branch, twig	L29 L29NEX
+駅員	えきいん	station employee	L29 L29NEX
+この辺	このへん	this neighborhood, around here	L29 L29NEX
+～辺	～へん	the place around～	L29 L29NEX
+このくらい	このくらい	about this size	L29 L29NEX
+お先に　どうぞ。	おさきに　どうぞ。	After you./Go ahead, please.	L29 L29NEX
+[ ああ、 ]　よかった。	[ ああ、 ]　よかった。	Thank goodness! (use to express a feeling of relief)	L29 L29NEX
+今の電車	いまのでんしゃ	the train which has just left	L29 L29NEX
+忘れ物	わすれもの	things left behind, lost property	L29 L29NEX
+～側	～側	～side	L29 L29NEX
+ポケット	ぽけっと	pocket	L29 L29NEX
+覚えていません。	おぼえていません	I don't remember.	L29 L29NEX
+網棚	あみだな	rack	L29 L29NEX
+確か	たしか	I suppose, if I am correct	L29 L29NEX
+地震	じしん	earthquake	L29 L29NEX
+壁	かべ	wall	L29 L29NEX
+針	はり	hands (of a clock)	L29 L29NEX
+指す	さす	to point, I	L29 L29NEX
+駅前	えきまえ	the area in front of the station	L29 L29NEX
+倒れる	たおれる	to fall down, II	L29 L29NEX
+西	にし	west	L29 L29NEX
+方	ほう	direction	L29 L29NEX
+太っている	ふとっている	be fat	L29 L29EX
+やせている	やせている	be thin	L29 L29EX
+膨らんでいる	ふくらんでいる	to be bulging	L29 L29EX
+穴が開いている	あながあいている	to have a hole	L29 L29EX
+曲がっている	まがっている	to be bent	L29 L29EX
+ゆがんでいる	ゆがんでいる	to be distorded	L29 L29EX
+へこんでいる	へこんでいる	dented	L29 L29EX
+れじれている	れじれている	to be twisted	L29 L29EX
+欠けている	かけている	to be chipped	L29 L29EX
+ひびが入っている	ひびがはいっている	to be cracked	L29 L29EX
+腐っている	くさっている	to be rotten	L29 L29EX
+乾いている	かわいている	to be dry	L29 L29EX
+ぬれている	ぬれている	to be wet	L29 L29EX
+凍っている	こおっている	to be frozen	L29 L29EX
+はる	はる	to put up, to post, to paste, I	L30 L30NEX
+掛ける	かける	to hang (e.g. picture), to make a call, II	L30 L30NEX
+飾る	かざる	to display, to decorate, I	L30 L30NEX
+並べる	ならべる	to arrange, to line up, II	L30 L30NEX
+植える	うえる	to plant	L30 L30NEX
+戻す	もどす	to return, to put (something) back, I	L30 L30NEX
+まとめる	まとめる	to put (something) together, to put (something) in shape, to sum up (something)	L30 L30NEX
+片づける	かたづける	to put things in order, to tidy up	L30 L30NEX
+しまう	しまう	to put things in their proper place	L30 L30NEX
+決める	きめる	to decide	L30 L30NEX
+知らせる	しらせる	to inform	L30 L30NEX
+相談する	そうだんする	to consult, to discuss	L30 L30NEX
+予習する	よしゅうする	to prepare one's lesson, III	L30 L30NEX
+復習する	ふくしゅうする	to review one's lesson	L30 L30NEX
+そのままに　する	そのままに　する	to leave things as they are	L30 L30NEX
+お子さん	おこさん	(someone else's) child	L30 L30NEX
+授業	じゅぎょう	class	L30 L30NEX
+講義	こうぎ	lecture	L30 L30NEX
+ミーティング	みーてぃんぐ	meeting	L30 L30NEX
+予定	よてい	plan, schedule	L30 L30NEX
+お知らせ	おしらせ	notice	L30 L30NEX
+案内書	あんあいしょ	guide book	L30 L30NEX
+カレンダー	かれんだー	calendar	L30 L30NEX
+ポスター	ぽすたー	poster	L30 L30NEX
+ゴミ箱	ごみばこ	trashcan, dustbin	L30 L30NEX
+人形	にんぎょう	doll	L30 L30NEX
+花瓶	かびん	vase	L30 L30NEX
+鏡	かがみ	mirror	L30 L30NEX
+引き出し	ひきだし	drawer	L30 L30NEX
+玄関	げんかん	front door, porch, entrance hall	L30 L30NEX
+廊下	ろうか	corridor, hallway	L30 L30NEX
+壁	かべ	wall	L30 L30NEX
+池	いけ	pond	L30 L30NEX
+交番	こうばん	police box	L30 L30NEX
+元の所	もとのところ	original place	L30 L30NEX
+周り	まわり	round, around	L30 L30NEX
+真ん中	まんなか	center	L30 L30NEX
+隅	すみ	corner	L30 L30NEX
+まだ	まだ	still	L30 L30NEX
+～ほど	～ほど	about ～	L30 L30NEX
+予定表	よていひょう	schedule	L30 L30NEX
+ご苦労さま	ごくろうさま	Thank you for your hard work. (used by a superior or older person to express appreciation for a subordinate's work)	L30 L30NEX
+希望	きぼう	hope, request	L30 L30NEX
+何か　ご希望が　ありますか。	なにか　ごきぼうが　ありますか。	Do you have any requests?	L30 L30NEX
+ミュージカル	みゅーじかる	musical	L30 L30NEX
+それは　いいですね。	それは　いいですね。	That's a good idea. / That sounds nice.	L30 L30NEX
+丸い	まるい	round	L30 L30NEX
+月	つき	moon	L30 L30NEX
+ある～	ある～	one ～,a certain ～	L30 L30NEX
+地球	ちきゅう	earth	L30 L30NEX
+うれしい	うれしい	glad, happy	L30 L30NEX
+嫌	いや	hateful, disagreeable	L30 L30NEX
+すると	すると	and, then	L30 L30NEX
+目が覚める	めがさめる	to wake up	L30 L30NEX
+[ 式が～ ]　始まる	[ しきが～ ]　はじまる	[ a ceremony ]　to begin, to start	L31 L31NEX
+続く	つづく	continue, II	L31 L31NEX
+見つける	みつける	find, II	L31 L31NEX
+[ 試験を ]　受ける	[ しけんを ]　うける	to take [an examination]	L31 L31NEX
+[ 大学に～ ]　入学する	[ だいがくに～ ]　にゅうがくする	enter [a university], III	L31 L31NEX
+[ 大学を～ ]　卒業する	[ だいがくを～ ]　そつぎょうする	graduate [from a university]	L31 L31NEX
+<!--anki-->[ 会議に～ ]　出席する	<!--anki-->[ かいぎに～ ]　しゅっせきする	to attend [a meeting]	L31 L31NEX
+休憩する	きゅうけいする	take a break, take a rest, III	L31 L31NEX
+連休	れんきゅう	consecutive holidays	L31 L31NEX
+作文	さくぶん	essay, composition	L31 L31NEX
+展覧会	てんらんかい	exhibition	L31 L31NEX
+結婚式	けっこんしき	wedding ceremony	L31 L31NEX
+[お]　葬式	[お]　そうしき	funeral	L31 L31NEX
+式	しき	ceremony	L31 L31NEX
+本社	ほんしゃ	head office	L31 L31NEX
+支店	してん	branch office	L31 L31NEX
+教会	きょうかい	church	L31 L31NEX
+大学院	だいがくいん	graduate school	L31 L31NEX
+動物園	どうぶつえん	zoo	L31 L31NEX
+温泉	おんせん	hot spring, spa, onsen	L31 L31NEX
+お客[さん]	おきゃく[さん]	visitor, guest, customer, client	L31 L31NEX
+だれが	だれが	somebody	L31 L31NEX
+～の方	～のほう	place toward ～, direction of ～	L31 L31NEX
+ずっと	ずっと	all the time	L31 L31NEX
+残る	のこる	to remain, to be left, I	L31 L31NEX
+月に	つきに	per month	L31 L31NEX
+普通の	ふつうの	ordinary, common, usual	L31 L31NEX
+インターネット	いんたーねっと	Internet	L31 L31NEX
+村	むら	village	L31 L31NEX
+映画館	えいがかん	movie theater	L31 L31NEX
+嫌	いや	hateful, disagreeable	L31 L31NEX
+空	そら	sky	L31 L31NEX
+閉じる	とじる	to close, II	L31 L31NEX
+都会	とかい	city	L31 L31NEX
+子供たち	こどもたち	children	L31 L31NEX
+自由に	じゆう	freely	L31 L31NEX
+世界中	せかいじゅう	all over the world	L31 L31NEX
+集まる	あつまる	gather, I	L31 L31NEX
+自然	しぜん	nature	L31 L31NEX
+すばらしさ	すばらしさ	goodness, virtue	L31 L31NEX
+気がつく	きがつく	notice, become aware of	L31 L31NEX
+専門	せんもん	fields of study	L31 L31EX
+医学	いがく	medical science	L31 L31EX
+薬学	やくがく	pharmacology	L31 L31EX
+科学	かがく	chemistry	L31 L31EX
+生化学	せいかがく	biochemistry	L31 L31EX
+生物学	せいぶつがく	biology	L31 L31EX
+農学	のうがく	agriculture	L31 L31EX
+地学	ちがく	geology	L31 L31EX
+地理学	ちりがく	geograhpy	L31 L31EX
+数学	すうがく	mathematics	L31 L31EX
+物理学	ぶつりがく	physics	L31 L31EX
+工学	こうがく	engineering	L31 L31EX
+土木工学	どぼくこうがく	civil engineering	L31 L31EX
+電子工学	でんしこうがく	electronics	L31 L31EX
+電気工学	でんきこうがく	electrical engineering	L31 L31EX
+機械工学	きかいこうがく	mechanical engineering	L31 L31EX
+コンピューター工学	こんぴゅーたーこうがく	computer science	L31 L31EX
+遺伝子工学	いでんしこうがく	genetic engineering	L31 L31EX
+建築学	けんちくがく	architecture	L31 L31EX
+天文学	てんもんがく	astronomy	L31 L31EX
+環境科学	かんきょうかがく	environment science	L31 L31EX
+政治学	せいじがく	politics	L31 L31EX
+国際関係学	こくさいかんけいがく	international relations	L31 L31EX
+法律学	ほうりつがく	law	L31 L31EX
+経済学	けいざいがく	economics	L31 L31EX
+経営学	けいえいがく	business administration	L31 L31EX
+社会学	しゃかいがく	sociology	L31 L31EX
+教育学	きょういくがく	education	L31 L31EX
+文学	ぶんがく	literature	L31 L31EX
+言語学	げんごがく	linguistics	L31 L31EX
+心理学	しんりがく	psychology	L31 L31EX
+哲学	てつがく	philosophy	L31 L31EX
+宗教学	しゅうきょうがく	theology	L31 L31EX
+芸術	げいじゅつ	arts	L31 L31EX
+美術	びじゅつ	fine arts	L31 L31EX
+音楽	おんがく	music	L31 L31EX
+体育学	たいいくがく	physical education	L31 L31EX
+運動する	うんどうする	to take exercise	L32 L32NEX
+成功する	せいこうする	succeed, III	L32 L32NEX
+[ 試験に～ ]　失敗する	[ しけんに～ ]　しっぱいする	to fail [an examination], III	L32 L32NEX
+[ 試験に～ ]　合格する	[ 試験に～ ]　ごうかくする	to pass [an examination], III	L32 L32NEX
+戻る	もどる	return, I	L32 L32NEX
+[ 雨が～ ]　やむ	[ あめが～ ]　やむ	to stop [rain], I	L32 L32NEX
+晴れる	はれる	to clear up, II	L32 L32NEX
+曇る	くもる	to get cloudy, I	L32 L32NEX
+[ 風が～ ]　吹く	[ かぜが～ ]　ふく	to blow [wind], I	L32 L32NEX
+[ 病気が～ ]　治す	[ びょうきが～ ]　なおす	to recover from [sickness], to get well, I	L32 L32NEX
+[ 故障が～ ]　直す	[ こしょうが～ ]　なおす	to be fixed, to be prepaired, I	L32 L32NEX
+[ 熱が～ ]　続く	[ ねつが～ ]　つづく	[high temperature] to continue, I	L32 L32NEX
+[ 風を～ ]　ひく	[ かぜを～ ]　ひく	to catch [a cold], I	L32 L32NEX
+冷やす	ひやす	to cool, I	L32 L32NEX
+心配し	しんぱい	worried, anxious	L32 L32NEX
+十分	じゅうぶん	enough, sufficient	L32 L32NEX
+おかしい	おかしい	strange, funny	L32 L32NEX
+うるさい	うるさい	noisy	L32 L32NEX
+やけど	やけど	burning (～をする　：　to get burned)	L32 L32NEX
+けが	けが	injury (～をする　：　to get injured)	L32 L32NEX
+せき	せき	cough (～がでる　：　to have a cough)	L32 L32NEX
+インフルエンザ	いんふるえんざ	influenza	L32 L32NEX
+空	そら	sky	L32 L32NEX
+太陽	たいよう	sun	L32 L32NEX
+星	ほし	star	L32 L32NEX
+月	つき	moon	L32 L32NEX
+風	かぜ	wind	L32 L32NEX
+北	きた	north	L32 L32NEX
+南	みなみ	south	L32 L32NEX
+西	にし	west	L32 L32NEX
+東	ひがし	east	L32 L32NEX
+水道	すいどう	faucet, tap, water supply	L32 L32NEX
+エンジン	えんじん	engine	L32 L32NEX
+チーム	ちーむ	team	L32 L32NEX
+今夜	こんや	this evening	L32 L32NEX
+夕方	ゆうがた	late afternoon	L32 L32NEX
+まえ	まえ	a time in the past, before	L32 L32NEX
+遅く	おそく	late (time)	L32 L32NEX
+こんなに	こんなに	like this	L32 L32NEX
+そんなに	そんなに	like that (concerning a matter related to the listener)	L32 L32NEX
+あんなに	あんなに	like that (concerning a matter not related to the speaker or listener), that much	L32 L32NEX
+もしかしたら	もしかしたら	possibly, perhaps	L32 L32NEX
+それは　いけませんね。	それは　いけませんね。	That's too bad.	L32 L32NEX
+元気	げんき	vigor	L32 L32NEX
+胃	い	stomach	L32 L32NEX
+働きすぎ	はたらきすぎ	working to much	L32 L32NEX
+ストレス	すとれす	stress	L32 L32NEX
+無理をする	むりをする	to work more than one's capacity, III	L32 L32NEX
+ゆっくり　する	ゆっくり　する	take one's time, III	L32 L32NEX
+星占い	ほしうらない	horoscope	L32 L32NEX
+牡牛座	おうしざ	Taurus	L32 L32NEX
+困る	こまる	to be in trouble, to have a problem, I	L32 L32NEX
+宝くじ	たからくじ	lottery	L32 L32NEX
+[宝くじが～]　当たる	[たからくじが～]　あたる&nbsp;	to win [a lottery]	L32 L32NEX
+健康	けんこう	health	L32 L32NEX
+恋愛	れんあい	romantic love	L32 L32NEX
+恋人	こいびと	sweetheart, boyfriend, girlfriend	L32 L32NEX
+[お]　金持ち	[お]　かねもち	rich person	L32 L32NEX
+晴れ	はれ	clear	L32 L32EX
+曇り	くもり	cloudy	L32 L32EX
+雨	あめ	rain	L32 L32EX
+雪	ゆき	snow	L32 L32EX
+晴れのち曇り	はれのちくもり	fine, cloudy later	L32 L32EX
+曇り時々(一時)雨	くもりときどき(いちじ)あめ	cloudy, occasionally rain	L32 L32EX
+曇り所によって雨	くもりところによってあめ	cloudy, partly rain	L32 L32EX
+降水確率	こうすいかくりつ	probability of rain	L32 L32EX
+最高気温	さいこうきおん	the highest temperature	L32 L32EX
+最低気温	さいていきおん	the lowest temperature	L32 L32EX
+にわか雨/夕立	にわかあめ/ゆうだち	shower	L32 L32EX
+雷	かみなり	thunder	L32 L32EX
+台風	たいふう	typhoon	L32 L32EX
+虹	にじ	rainbow	L32 L32EX
+風	かぜ	wind	L32 L32EX
+雲	くも	cloud	L32 L32EX
+湿度	しつど	humidity	L32 L32EX
+蒸し暑い	むしあつい	hot and humid	L32 L32EX
+さわやか	さわやか	refreshing	L32 L32EX
+逃げる	にげる	to run away, II	L33 L33NEX
+騒ぎぐ	さわぎぐ	to make a noise, I	L33 L33NEX
+あきらめる	あきらめる	to give up, II	L33 L33NEX
+投げる	なげる	to throw, II	L33 L33NEX
+守る	まもる	keep, follow, obey	L33 L33NEX
+上げる	あげる	to raise, to lift up	L33 L33NEX
+下げる	さげる	to lower, to pull down	L33 L33NEX
+伝える	つたえる	to convey (a message), II	L33 L33NEX
+[ 車に～ ]　注意する	[ くるまに～ ]　ちゅういする<div>	be careful [of the cars]</div>	L33 L33NEX
+[ 席を～ ]　外ずす	[ せきを～ ]　はずす	to be away [from one's desk]	L33 L33NEX
+だめ	だめ	no good, not permitted, impossible	L33 L33NEX
+席	せき	seat	L33 L33NEX
+ファイト	ふぁいと	fight	L33 L33NEX
+マーク	まーく	mark	L33 L33NEX
+ボール	ぼーる	ball	L33 L33NEX
+洗濯機	せんたくき	washing machine	L33 L33NEX
+～機	～き	～machine	L33 L33NEX
+規則	きそく	regulation, rule	L33 L33NEX
+使用禁止	しようきんし	Do not use.	L33 L33NEX
+立入禁止	たちいりきんし	Keep out.	L33 L33NEX
+入口	いりぐち	entrance	L33 L33NEX
+出口	でぐち	exit	L33 L33NEX
+非常口	ひじょうぐち	emergency exit	L33 L33NEX
+無料	むりょう	free of charge	L33 L33NEX
+本日休業	ほんじつきゅうぎょう	closed today	L33 L33NEX
+営業中	えいぎょうちゅう	open for business	L33 L33NEX
+使用中	しようちゅう	in use	L33 L33NEX
+～中	～ちゅう	～ing	L33 L33NEX
+どういう～	どういう～	what kind of～	L33 L33NEX
+もう	もう	(not) any longer (used with negatives)	L33 L33NEX
+あと～	あと～	～left	L33 L33NEX
+駐車違反	ちゅうしゃいはん	parking violation	L33 L33NEX
+そりゃあ	そりゃあ	well	L33 L33NEX
+～以内	～いない	within ～	L33 L33NEX
+警察	けいさつ	police station	L33 L33NEX
+罰金	ばっきん	fine	L33 L33NEX
+電報	でんぽう	telegram	L33 L33NEX
+人々	ひとびと	people	L33 L33NEX
+急用	きゅうよう	urgent business	L33 L33NEX
+[ 電報を～ ]　打つ	[ 電報を～ ]　うつ	send [a telegram]	L33 L33NEX
+電報代	でんぽうだい	telegram charge	L33 L33NEX
+できるだけ	できるだけ	as much as possible	L33 L33NEX
+短く	みじかく	shortly, briefly	L33 L33NEX
+また	また	and	L33 L33NEX
+例えば	たとえば	for example	L33 L33NEX
+キトク (危篤)	きとく	in a critical condition	L33 L33NEX
+重い病気	おもいびょうき	serious illness	L33 L33NEX
+明日	あす	tomorrow	L33 L33NEX
+留守	るす	absence	L33 L33NEX
+留守番	るすばん	looking after a house during the owner's absence	L33 L33NEX
+[お]　祝い	[お]　いわい	celebration	L33 L33NEX
+亡くなる	なくなる	to pass away, to die, I	L33 L33NEX
+悲しみ	かなしみ	sorrow, sadness	L33 L33NEX
+利用する	りようする	to use	L33 L33NEX
+標識	ひょうしき	signs	L33 L33EX
+営業中	えいぎょうちゅう	open for business	L33 L33EX
+準備中	じゅうびんちゅう	in preparation	L33 L33EX
+閉店	へいてん	closed	L33 L33EX
+定休日	ていきゅうび	regular holiday	L33 L33EX
+化粧し室	けしょうしつ	toilet	L33 L33EX
+禁煙席	きんえんせき	no smoking seat	L33 L33EX
+予約席	よやくせき	reserved seat	L33 L33EX
+非常口	ひじょうぐち	emergency exit	L33 L33EX
+火気厳禁	かきげんきん	flammable	L33 L33EX
+割れ物注意	われものちゅうい	fragile	L33 L33EX
+運転初心者注意	うんてんしょしんしゃちゅうい	beginner driver	L33 L33EX
+工事中	こうじちゅう	under construction	L33 L33EX
+塩素系漂白剤不可	えんそけいひょうはくざいふか	Don't use chlorine	L33 L33EX
+手洗い	てあらい	wash by hand	L33 L33EX
+アイロン (低温)	あいろん (ていおん)	iron at a low temperature	L33 L33EX
+ドライクリーニング	どらいくりーにんぐ	dry clean only	L33 L33EX
+[ 歯を～ ]　磨く	[ はを～ ]　みがく	to brush [one's teeth], to polish, I	L34 L34NEX
+組み立てる	くみたてる	to assemble, II	L34 L34NEX
+折る	おる	to bend, to fold, to break, to snap, I	L34 L34NEX
+[ 忘れ物に～ ]　気が　つく	[ わすれものに～ ]　きが　つく	to notice, to become aware of [things left behind], I	L34 L34NEX
+[ しょうゆを～ ]　つける	[ しょうゆを～ ]　つける	to put [in soy sauce], II	L34 L34NEX
+[ 鍵が～ ]　見つかける	[ かぎが～ ]　みつける	to be found [a key], I	L34 L34NEX
+[ ネクライを～ ]　する	[ ねくたいを～ ]　する	to put on, to wear [a tie], III	L34 L34NEX
+質問する	しつもんする	ask a question, III	L34 L34NEX
+細い	ほそい	thin (of small diameter)	L34 L34NEX
+太い	ふとい	thick (of large diameter)	L34 L34NEX
+盆踊り	ぼんおどり	Bon Festival dance	L34 L34NEX
+スポーツクラブ	すぽーつくらぶ	sports club	L34 L34NEX
+家具	かぐ	furniture	L34 L34NEX
+キー	きー	key	L34 L34NEX
+シートベルト	しーとべると	seat belt	L34 L34NEX
+説明書	せつめしょ	explanatory pamphlet, instruction book	L34 L34NEX
+図	ず	figure, drawing	L34 L34NEX
+線	せん	line	L34 L34NEX
+矢印	やじるし	arrow (sign)	L34 L34NEX
+黒	くろ	black (noun)	L34 L34NEX
+白	しろ	white (noun)	L34 L34NEX
+赤	あか	red (noun)	L34 L34NEX
+青	あお	blue (noun)	L34 L34NEX
+紺	こん	navy blue, dark blue, (noun)	L34 L34NEX
+黄色	きいろ	yellow (noun)	L34 L34NEX
+茶色	ちゃいろ	brown (noun)	L34 L34NEX
+しょうゆ	しょうゆ	soya, soy sauce	L34 L34NEX
+ソース	そーす	sauce, Worcestershire sauce	L34 L34NEX
+～か　～	～か　～	～ or ～	L34 L34NEX
+ゆうべ	ゆうべ	last night	L34 L34NEX
+さっき	さっき	a short while ago	L34 L34NEX
+茶道	さどう	tea ceremony	L34 L34NEX
+お茶を　たてる	おちゃを　たてる	to make green tea, II	L34 L34NEX
+先に	さきに	first (when doing something before something else)	L34 L34NEX
+載せる	のせる	to place on, to unload onto, II	L34 L34NEX
+これで　いいですか。	これで　いいですか。	Is this all right?	L34 L34NEX
+苦い	にがい	bitter	L34 L34NEX
+親子どんぶり	おやこどんぶり	a bowl of cooked rice with chicken and egg	L34 L34NEX
+材料	ざいりょう	material, ingredient	L34 L34NEX
+～分	～ぶん	portion for ～ (used for indicating quantity)	L34 L34NEX
+鳥肉	とりにく	chicken	L34 L34NEX
+～グラム	～ぐらむ	gram	L34 L34NEX
+～個	～こ	(counter for small objects)	L34 L34NEX
+たまねぎ	たまねぎ	onion	L34 L34NEX
+4分の1　(1/4)	よんぶんのいち	one fourth	L34 L34NEX
+調味料	ちょうみりょう	seasoning, flavoring	L34 L34NEX
+なべ	なべ	pan, pot	L34 L34NEX
+火	ひ	fire, heating	L34 L34NEX
+火に　かける	ひに　かける	to put on the stove, II	L34 L34NEX
+煮る	にる	to cook, to boil, II	L34 L34NEX
+煮える	にえる	to be cooked, to be boiled, II	L34 L34NEX
+どんぶり	どんぶり	ceramic bowl	L34 L34NEX
+料理	りょうり	cooking	L34 L34EX
+煮る	にる	to boil, to cook	L34 L34EX
+焼く	やく	to grill, to bake, to roast	L34 L34EX
+揚げる	あげる	to deep fry	L34 L34EX
+いためる	いためる	to shallow fry	L34 L34EX
+ゆてる	ゆてる	to boil	L34 L34EX
+蒸す	むす	to steam	L34 L34EX
+炊く	たく	to cook (rice)	L34 L34EX
+むく	むく	to peel, to pare	L34 L34EX
+刻む	きざむ	to chop, to mince	L34 L34EX
+かき混ぜる	かきまぜる	to stir	L34 L34EX
+調味料	ちょうみりょう	seasoning	L34 L34EX
+しょうゆ	しょうゆ	soy sauce	L34 L34EX
+砂糖	さとう	sugar	L34 L34EX
+塩	しお	salt	L34 L34EX
+酢	す	vinegar	L34 L34EX
+みそ	みそ	miso	L34 L34EX
+油	あぶら	oil, fat	L34 L34EX
+ソース	そーす	Worcestershire sauce	L34 L34EX
+マヨネーズ	まよねーず	mayonnaise	L34 L34EX
+ケチャップ	けちゃっぷ	ketchup	L34 L34EX
+からし (マズタード)	からし (まずたーど)	mustard	L34 L34EX
+こしょう	こしょう	pepper	L34 L34EX
+とうからし	とうからし	red pepper	L34 L34EX
+しょうが	しょうが	ginger	L34 L34EX
+わさび	わさび	Japanese horseradish	L34 L34EX
+カレー粉	かれーこ	curry powder	L34 L34EX
+台所用品	だいところようひん	cookware &amp; kitchen utensils	L34 L34EX
+なべ	なべ	pot, pan	L34 L34EX
+やかん	やかん	kettle	L34 L34EX
+ふた	ふた	lid	L34 L34EX
+あたま	あたま	ladle	L34 L34EX
+まな板	まないた	cutting board	L34 L34EX
+包丁	ほうちょう	kitchen knife	L34 L34EX
+ふうきん	ふきん	kitchen towel	L34 L34EX
+フライパン	ふらいぱん	frying pan	L34 L34EX
+電子オーブンレンジ	電子おーぶんれんじ	microwave oven	L34 L34EX
+電子レンジ	でんしレンジ	microwave oven	L34 L34EX
+炊飯器	すいはんき	rice cooker	L34 L34EX
+しゃもじ	しゃもじ	rice scoop	L34 L34EX
+缶切り	かんきりかんきり	can opener	L34 L34EX
+栓抜き	せんぬき	bottle opener, corkscrew	L34 L34EX
+ざる	ざる	collander, sieve	L34 L34EX
+ポット	ぽっと	thermos flask	L34 L34EX
+ガス台	がすだい	gas cooker	L34 L34EX
+流し[台]	ながし[だい]	sink	L34 L34EX
+換気扇	かんきせん	ventilation fan	L34 L34EX
+[ 花が～ ]　咲く	[ はなが～ ]　さく	[flowers] bloom	L35 L35NEX
+[ 色が～ ]　変わる	[ いろが～ ]　かわる	to change [the color]	L35 L35NEX
+困る	こまる	to be in trouble, to have a problem, I	L35 L35NEX
+[ 丸を～ ]　付ける	[ まるを～ ]　つける	to draw [a circle], to mark, II	L35 L35NEX
+拾う	ひろう	to pick up	L35 L35NEX
+[ 電話が～ ]　かける	[ でんわが～ ]　かける	to have [a phone call]	L35 L35NEX
+楽	らくな</div><div>comfortable, easy		L35 L35NEX
+正しい	ただしい	correct, right	L35 L35NEX
+珍しい	めずらしい	rare, uncommon	L35 L35NEX
+方	かた	person (respectful)	L35 L35NEX
+向こう	むこう	over there, the other side	L35 L35NEX
+島	しま	island	L35 L35NEX
+村	むら	village	L35 L35NEX
+港	みなと	port, harbor	L35 L35NEX
+近所	きんじょ	neighborhood, vicinity	L35 L35NEX
+屋上	おくじょう	rooftop	L35 L35NEX
+海外	かいがい	overseas	L35 L35NEX
+山登り	やまのぼり	mountain climbing	L35 L35NEX
+ハイキング	はいきんぐ	hiking	L35 L35NEX
+機会	きかい	change, opportunity	L35 L35NEX
+許可	きょか	permission	L35 L35NEX
+丸	まる	circle	L35 L35NEX
+操作	そうさ	operation	L35 L35NEX
+方法	ほうほう	method	L35 L35NEX
+設備	せつび	equipment, facilities	L35 L35NEX
+カーテン	かーてん	curtain	L35 L35NEX
+ひも	ひも	string	L35 L35NEX
+ふた	ふた	lid, cover, cap	L35 L35NEX
+葉	は	leaf	L35 L35NEX
+曲	きょく	a piece of music	L35 L35NEX
+楽しみ	たのしみ	pleasure, enjoyment, expectation	L35 L35NEX
+もっと	もっと	more	L35 L35NEX
+初めに	はじめに	first	L35 L35NEX
+これで　終わる。	これで　おわる。	We'll finish now.	L35 L35NEX
+それなら	それなら	in that case	L35 L35NEX
+旅行バス	りょこうバス	night bus	L35 L35NEX
+旅行社	りょこうしゃ	travel agency	L35 L35NEX
+詳しい	くわしい	detailed	L35 L35NEX
+スキー場	すきーじょう	ski resort, ski ground	L35 L35NEX
+しゅ	しゅ	(orange) red	L35 L35NEX
+交わる	まじわる	keep company with, I	L35 L35NEX
+ことわざ	ことわざ	proverb	L35 L35NEX
+仲よく　する	なかよく　する	to be on good terms with, III	L35 L35NEX
+必要	ひつよう	necessary, essential	L35 L35NEX
+ことわざ	ことわざ	proverbs	L35 L35EX
+住めば都	すめばみやこ	Wherever you live, once you get used to living there, it becomes home.	L35 L35EX
+三人寄れば文殊の知恵	さんにんよればもんじゅのちえ	<div><i>Two heads are better than one.</i></div>The more people there are, the better.	L35 L35EX
+立てばしゃくやく、座ればぼたん、歩く姿はゆりの花	たてばしゃくやく、すわればぼたん、あるく　すがた　は　ゆり　の　はな	She is very beautiful. A standing figure is like a peony, a sitting figure is like a tree peony and a walking figure is like a lily.	L35 L35EX
+ちりも積もれば山となる	ちりも　つもれば　やま　となる。	<div><i>Many a little makes a mickle</i></div>Even though it is small like dust, it becomes big like a mountain when piled up.	L35 L35EX
+うわさを　すれば影	うわさを　すればかげ	<div><i>Speak of the devil and he appears.</i></div><div>speaking of something bad and then the bad appears</div>	L35 L35EX
+花よりだんご	はなよりだんご	<div><i>Cake before flowers</i></div>Substance rather than appearance.	L35 L35EX
+転石苔を　生ぜず	てんせきこけを　しょうぜず	<div><i>A rolling stone gathers no moss</i></div><div>1) Those who are active make progress.</div>\br2) Those who easily get tired and change their jobs can not succeed in life.	L35 L35EX
+[　荷物が～　]　届く	[　にもつが～　]　とどく	[ parcels ] to be delivered I	L36 L36NEX
+[　試合に～　]　出る	[　しあいに～　]　でる	to participate [ in the game ] II	L36 L36NEX
+打つ	うつ	to type I	L36 L36NEX
+貯金する	ちょきんする	to save money III	L36 L36NEX
+太る	ふとる	to get fat I	L36 L36NEX
+やせる		to get slim, to lose weight II	L36 L36NEX
+[　７時を～　]　過ぎる	[　７じを～　]　すぎる	to pass [ 7 o'clock ]	L36 L36NEX
+[　習慣に～　]　慣れる	[　しゅうかんに～　]　なれる	to get accustomed to [ the customs ]	L36 L36NEX
+硬い	かたい	hard, tough, solid	L36 L36NEX
+軟らかい	やわらかい	soft, tender	L36 L36NEX
+電子～	でんし～	electronic&nbsp;～	L36 L36NEX
+携帯～	けいたい～	portable&nbsp;～	L36 L36NEX
+工場	こうじょう	factory	L36 L36NEX
+健康	けんこう	health	L36 L36NEX
+剣道	けんどう	kendo	L36 L36NEX
+毎週	まいしゅう	every week	L36 L36NEX
+毎月	まいつき	every month	L36 L36NEX
+毎年	まいとし/まいねん	every year	L36 L36NEX
+やっと		finally	L36 L36NEX
+かなり		fairly	L36 L36NEX
+必ず	かならず	without fail, by any means	L36 L36NEX
+絶対に	ぜったいに	absolutely (used with negatives)	L36 L36NEX
+上手に	じょうずに	well, skillfully	L36 L36NEX
+できるだけ		as much as possible	L36 L36NEX
+このごろ		these days	L36 L36NEX
+～ずつ		(some amount) per&nbsp;～	L36 L36NEX
+その　ほうが　～		that is more&nbsp;～	L36 L36NEX
+お客様	おきゃくさま	guest, customer	L36 L36NEX
+していらっしゃいます		to be doing (respectful equivalent of しています)	L36 L36NEX
+水泳	すいえい	swimming	L36 L36NEX
+～とか、～とか		～, ～, and so on	L36 L36NEX
+タンゴ		tango	L36 L36NEX
+チャレンジする		to challenge III	L36 L36NEX
+気持ち	きもち	feeling, enthusiasm	L36 L36NEX
+乗り物	のりもの	vehicle, means of transportation	L36 L36NEX
+歴史	れきし	history	L36 L36NEX
+ー世紀	ーせいき	ーcentury	L36 L36NEX
+遠く	とおく	far, remote place	L36 L36NEX
+汽車	きしゃ	steam locomotive	L36 L36NEX
+汽船	きせん	steam boat	L36 L36NEX
+大勢の　～	おおぜいの　～	many (people)	L36 L36NEX
+運ぶ	はこぶ	to carry, to transport I	L36 L36NEX
+飛ぶ	とぶ	to fly I	L36 L36NEX
+安全	あんぜん	safe	L36 L36NEX
+宇宙	うちゅう	space, universe	L36 L36NEX
+地球	ちきゅう	earth	L36 L36NEX
+褒める	ほめる	to praise II	L37 L37NEX
+しかる		to scold I	L37 L37NEX
+誘う	さそう	to invite, to ask someone to join I	L37 L37NEX
+起こす	おこす	to wake (someone) up	L37 L37NEX
+招待する	しょうたいする	to invite III	L37 L37NEX
+頼む	たのむ	to ask, to request I	L37 L37NEX
+とる		to rob, to steal I	L37 L37NEX
+踏む	ふむ	to step on (someone's foot) I	L37 L37NEX
+壊す	こわす	to break, to destroy I	L37 L37NEX
+汚す	よごす	to make something dirty I	L37 L37NEX
+行う	おこなう	to hold, to carry out, to practice I	L37 L37NEX
+輸出する	ゆしゅつする	to export III	L37 L37NEX
+輸入する	ゆにゅうする	to import III	L37 L37NEX
+翻訳する	ほんやくする	to translate III	L37 L37NEX
+発明する	はつめいする	to invent III	L37 L37NEX
+発見する	はっけんする	to discover III	L37 L37NEX
+設計する	せっけいする	to design, to plan III	L37 L37NEX
+米	こめ	rice	L37 L37NEX
+麦	むぎ	barley, wheat	L37 L37NEX
+石油	せきゆ	oil	L37 L37NEX
+原料	げんりょう	raw material	L37 L37NEX
+デート		date	L37 L37NEX
+泥棒	どろぼう	thief, robber	L37 L37NEX
+警官	けいかん	policeman	L37 L37NEX
+建築家	けんちくか	architect	L37 L37NEX
+科学者	かがくしゃ	scientist	L37 L37NEX
+漫画	まんが	Manga	L37 L37NEX
+世界中	せかいじゅう	all over the world	L37 L37NEX
+～じゅう		all over&nbsp;～	L37 L37NEX
+～によって		by&nbsp;～	L37 L37NEX
+よかったですね。		That's lucky, isn't it?	L37 L37NEX
+源氏物語	げんじものがたり	"""The Tale of Genji"""	L37 L37NEX
+紫式部 (名前)	むらさきしきぶ	"Novelist who wrote ""The Tale of Genji"""	L37 L37NEX
+東照宮	とうしょうぐう	Shrine in Nikko, Tochigi Prefecture	L37 L37NEX
+江戸時代	えどじだい	Edo Period (1603-1868)	L37 L37NEX
+埋め立てる	うめたてる	to reclaim II	L37 L37NEX
+技術	ぎじゅつ	technology, technique	L37 L37NEX
+土地	とち	land	L37 L37NEX
+騒音	そうおん	noise	L37 L37NEX
+利用する	りようする	to use, to make use of III	L37 L37NEX
+豪華	ごうか	gorgeous	L37 L37NEX
+彫刻	ちょうこく	engraving, carving, sculpture	L37 L37NEX
+眠る	ねむる	to sleep I	L37 L37NEX
+彫る	ほる	to engrave, to carve I	L37 L37NEX
+仲間	なかま	colleague, friend	L37 L37NEX
+そのあと		after that	L37 L37NEX
+一生懸命	いっしょうけんめい	with all one's effort	L37 L37NEX
+ねずみ		mouse	L37 L37NEX
+左甚五郎 (名前)	ひだりじんごろう	Japanese sculptor	L37 L37NEX
+育てる	そだてる	to breed, to bring up II	L38 L38NEX
+亡くなる	なくなる	to pass away (euphemistic expression for 死にます) I	L38 L38NEX
+入院する	にゅういんする	to enter a hospital III	L38 L38NEX
+退院する	たいいんする	to leave a hospital III	L38 L38NEX
+<div>[　電源を～　]　入れる</div>	[　でんげんを～　]　いれる	to turn on [ the power switch ] II	L38 L38NEX
+[　電源を～　]　切る	[　でんげんを～　]　きる	to turn off [ the power switch ] I	L38 L38NEX
+掛ける	かける	to lock II	L38 L38NEX
+気持ちがいい	きもちがいい	pleasant, agreeable	L38 L38NEX
+気持ちが悪い	きもちがわるい	unpleasant, disgusting	L38 L38NEX
+大きな～	おおきな～	large～	L38 L38NEX
+小さな～	ちいさな～	small～	L38 L38NEX
+赤ちゃん	あかちゃん	baby	L38 L38NEX
+小学校	しょうがっこう	elementary school	L38 L38NEX
+中学校	ちゅうがっこう	juniour high school	L38 L38NEX
+駅前	えきまえ	the areain front of the station	L38 L38NEX
+海岸	かいがん	seaside, seashore	L38 L38NEX
+嘘	うそ	lie, fib	L38 L38NEX
+書類	しょるい	document, papers	L38 L38NEX
+電源	でんげん	power switch	L38 L38NEX
+～製	～せい	made in&nbsp;～	L38 L38NEX
+いけない。		Oops! Oh, no! (used when one has made a mistake)	L38 L38NEX
+お先に	おさきに	Excuse me (for leaving before you)	L38 L38NEX
+原爆ドーム	げんばくドーム	dome commemorating the atomic bombing of 広島	L38 L38NEX
+回覧	かいらん	circular, sending round	L38 L38NEX
+研究室	けんきゅうしつ	study room, professor's office, laboratory	L38 L38NEX
+きちんと		neatly, tidily	L38 L38NEX
+整理する	せいりする	to put (things) in order, to tidy up III	L38 L38NEX
+～という本	～というほん	the book titled&nbsp;～	L38 L38NEX
+ー冊	ー冊	counter for books	L38 L38NEX
+はんこ		seal stamp	L38 L38NEX
+[　はんこを～　]　押す	[　はんこを～　]　おす	to affix [ a seal ] I	L38 L38NEX
+双子	ふたご	twins	L38 L38NEX
+姉妹	しまい	sisters	L38 L38NEX
+５年枚	５ねんまい	fifth grade, fifth year	L38 L38NEX
+似ている	にている	to resemble, to be like II	L38 L38NEX
+性格	せいかく	character, type	L38 L38NEX
+おとなしい		quiet	L38 L38NEX
+世話をする	せわをする	to take care III	L38 L38NEX
+時間がたつ	じかんがたつ	to pass (time) I	L38 L38NEX
+大好き	だいすき	to like very much, to love	L38 L38NEX
+ー点	ーてん	ーpoints	L38 L38NEX
+クラス		class	L38 L38NEX
+けんかする		to quarrel, to fight III	L38 L38NEX
+不思議	ふしぎ	mysterious, strange	L38 L38NEX
+[　質問に～　]　答える	[　しつもんに～　]　こたえる	to answer [ a question ] II	L39 L39NEX
+[　ビルが～　]　倒れる	[　ビルが～　]　たおれる	to fall down, to collapse (ie. a building) II	L39 L39NEX
+[　～が～　]　焼ける	やける	to burn down, to be baked, to be roasted, to be grilled II	L39 L39NEX
+[　道を～　]　通る	[　みちを～　]　とおる	to pass [ along a street ] I	L39 L39NEX
+死ぬ	しぬ	to die I	L39 L39NEX
+びっくりする		to be surprised III	L39 L39NEX
+がっかりする		to be disappointed III	L39 L39NEX
+安心する	あんしんする	to be relieved III	L39 L39NEX
+遅刻する	ちこくする	to be late, to come late III	L39 L39NEX
+早退する	そうたいする	to leave (work or school) earlier than usual III	L39 L39NEX
+離婚する	りこんする	to divorce III	L39 L39NEX
+複雑	ふくざつ	complicated, compex	L39 L39NEX
+邪魔	じゃま	obstructive, in the way	L39 L39NEX
+汚い	きたない	dirty	L39 L39NEX
+うれしい		glad, happy	L39 L39NEX
+悲しい	かなしい	sad	L39 L39NEX
+恥ずかしい	はずかしい	embarassed, ashamed	L39 L39NEX
+地震	じしん	earthquake	L39 L39NEX
+台風	たいふう	typhoon	L39 L39NEX
+火事	かじ	fire	L39 L39NEX
+事故	じこ	accident	L39 L39NEX
+見合い	みあい	formal marriage interview	L39 L39NEX
+電話代	でんわだい	telephone charge (as in, cost; from a bygone era without smartphones)	L39 L39NEX
+～代	～だい	charge, fare, fee	L39 L39NEX
+フロント		front desk, reception desk	L39 L39NEX
+ー号室	ーごうしつ	room number ー	L39 L39NEX
+汗	あせ	perspiration	L39 L39NEX
+汗をかく	あせをかく	to perspire	L39 L39NEX
+タオル		towel	L39 L39NEX
+せっこん		soap	L39 L39NEX
+お疲れ様でした。	おつかれさまでした。	Thank you for your hard work.	L39 L39NEX
+伺う	うかがう	I'm coming. (humble)	L39 L39NEX
+途中で	とちゅうで	on the way, in the midst of	L39 L39NEX
+トラック		truck, lorry	L39 L39NEX
+ぶつかる		to bump, to collide I	L39 L39NEX
+並ぶ	ならぶ	to stand in a queue, to line up I	L39 L39NEX
+大人	おとな	adult	L39 L39NEX
+洋服	ようふく	western clothes	L39 L39NEX
+西洋化する	せいようかする	to be westernized III	L39 L39NEX
+会う	あう	to fit, to suit	L39 L39NEX
+今では	いまでは	now	L39 L39NEX
+成人式	せいじんしき	coming-of-age celebration	L39 L39NEX
+数える	かぞえる	to count II	L40 L40NEX
+測る	はかる	to measure I	L40 L40NEX
+量る	はかる	to weigh, to measure I	L40 L40NEX
+確かめる	たしかまける	to confirm, to make sure	L40 L40NEX
+出発する	しゅっぱつする	to depart III	L40 L40NEX
+到着する	とうちゃくする	to arrive III	L40 L40NEX
+酔う	よう	to get drunk I	L40 L40NEX
+危険	きけん	dangerous	L40 L40NEX
+必要	ひつよう	necessary	L40 L40NEX
+忘年会	ぼうねんかい	year-end party	L40 L40NEX
+新年会	しんねんかい	New Year's party	L40 L40NEX
+二次会	にじかい	second party, afterparty	L40 L40NEX
+大会	たいかい	mass meeting, convention	L40 L40NEX
+マラソン		marathon	L40 L40NEX
+コンテスト		contest	L40 L40NEX
+表	おもて	face, front	L40 L40NEX
+裏	うら	back (side)	L40 L40NEX
+返事	へんじ	reply	L40 L40NEX
+申し込み	もうしこみ	application	L40 L40NEX
+本当	ほんとう	truth, fact	L40 L40NEX
+間違い	まちがい	mistake	L40 L40NEX
+傷	きず	defect, wound, scratch	L40 L40NEX
+ズボン		trousers	L40 L40NEX
+長さ	ながさ	length	L40 L40NEX
+重さ	おもさ	weight	L40 L40NEX
+高さ	たかさ	height	L40 L40NEX
+大きさ	おおきさ	size, scale	L40 L40NEX
+ー便	ーびん	flight, flight number	L40 L40NEX
+ー号	ーごう	train number, typhoon number etc.	L40 L40NEX
+ー個	ーこ	counter for small objects	L40 L40NEX
+ー本	ーほん	counter for long objects	L40 L40NEX
+ー杯	ーはい	counter for full cups, glasses etc.	L40 L40NEX
+ーキロ		ーkilograms, kilometers	L40 L40NEX
+ーグラム		ーgrams	L40 L40NEX
+ーセンチ		ーcentimeters	L40 L40NEX
+ーミリ		ーmillimeters	L40 L40NEX
+～以上	～いじょう	not less than ～, more than ～	L40 L40NEX
+～以下	～いか	not more than　～, under ～	L40 L40NEX
+成績	せいせき	performance, score, result	L40 L40NEX
+様子	ようす	situation, condition, appearance	L40 L40NEX
+事件	じけん	incident, case	L40 L40NEX
+オートバイ		motorcycle	L40 L40NEX
+爆弾	ばくだん	bomb	L40 L40NEX
+積む	つむ	to load, to pile up I	L40 L40NEX
+運転手	うんてんしゅ	driver	L40 L40NEX
+離れた	はなれた	remote	L40 L40NEX
+急に	きゅうに	suddenly	L40 L40NEX
+犯人	はんにん	suspect, criminal	L40 L40NEX
+手に入れる	てにいれる	to obtain, to get II	L40 L40NEX
+今でも	いまでも	even now	L40 L40NEX
+うわさする		to gossip III	L40 L40NEX
+いただきます		to receive (humble equivalent of もらいます) I	L41 L41NEX
+くださいます		to give (respectful equivalent of くれます) I	L41 L41NEX
+やる		to give (to a younger person or subordinate)	L41 L41NEX
+呼ぶ	よぶ	to invite I	L41 L41NEX
+取り替える	とりかえる	to exchange II	L41 L41NEX
+親切にする	しんせつにする	to be kind to III	L41 L41NEX
+かわいいいいいいいいいいい		lovely, cute	L41 L41NEX
+お祝い	おいわい	celebration, gift	L41 L41NEX
+お年玉	おとしだま	money given as a New Year's gift	L41 L41NEX
+お見舞い	おみまい	expression of sympathy, consolatory gift to a sick person	L41 L41NEX
+興味	きょうみ	interest	L41 L41NEX
+情報	じょうほう	information	L41 L41NEX
+文法	ぶんぽう	grammar	L41 L41NEX
+発音	はつおん	pronunciation	L41 L41NEX
+猿	さる	ape, monkey	L41 L41NEX
+えさ		feed, bait	L41 L41NEX
+おもちゃ		toy	L41 L41NEX
+絵本	えほん	picture book	L41 L41NEX
+絵葉書	えはがき	picture postcard	L41 L41NEX
+ドライブー		screwdriver	L41 L41NEX
+ハンカチ		handkerchief	L41 L41NEX
+靴下	くつした	socks, stockings	L41 L41NEX
+手袋	てぶくろ	gloves	L41 L41NEX
+指輪	ゆびわ	ring	L41 L41NEX
+バッグ		bag	L41 L41NEX
+祖父	そふ	(my) grandfather	L41 L41NEX
+祖母	そぼ	(my) grandmother	L41 L41NEX
+孫	まご	grandchild	L41 L41NEX
+おじ		(my) uncle	L41 L41NEX
+おじさん		(someone else's) uncle	L41 L41NEX
+おば		(my) aunt	L41 L41NEX
+おばさん		(someone else's) aunt	L41 L41NEX
+一昨年	おととし	the year before last	L41 L41NEX
+申し訳ありません。	もうしわけありません。	I'm sorry. / Excuse me.&nbsp;	L41 L41NEX
+預かる	あずかる	to keep, to receive (something) in trust I	L41 L41NEX
+先日	せんじつ	the other day	L41 L41NEX
+助かる	たすかる	to be of help I	L41 L41NEX
+昔話	むかしばなし	old tale, folklore	L41 L41NEX
+ある　～		a certain ～, one ～	L41 L41NEX
+男	おとこ	man	L41 L41NEX
+子供たち	こどもたち	children	L41 L41NEX
+いじめる		to bully, to abuse, to ill-treat II	L41 L41NEX
+亀	かめ	turtle, tortoise	L41 L41NEX
+助ける	たすける	to save, to help II	L41 L41NEX
+城	しろ	castle	L41 L41NEX
+お姫様	おひめさま	princess	L41 L41NEX
+楽しく	たのしく	happily, merrily	L41 L41NEX
+暮らす	くらす	to live, to lead a life I	L41 L41NEX
+陸	りく	land, shore	L41 L41NEX
+すると		and, then	L41 L41NEX
+煙	けむり	smoke	L41 L41NEX
+真っ白	まっしろ	pure white	L41 L41NEX
+中身	なかみ	content	L41 L41NEX
+包む	つつむ	to wrap I	L42 L42NEX
+沸かす	わかす	to boil I	L42 L42NEX
+混ぜる	まぜる	to mix II	L42 L42NEX
+計算する	けいさんする	to calculate III	L42 L42NEX
+厚い	あつい	thick	L42 L42NEX
+薄い	うすい	thin	L42 L42NEX
+弁護士	べんごし	lawyer, attorney	L42 L42NEX
+音楽家	おんがくか	musician	L42 L42NEX
+教育	きょういく	education	L42 L42NEX
+歴史	れきし	history	L42 L42NEX
+文化	ぶんか	culture	L42 L42NEX
+社会	しゃかい	society	L42 L42NEX
+法律	ほうりつ	law	L42 L42NEX
+戦争	せんそう	war	L42 L42NEX
+平和	へいわ	peace	L42 L42NEX
+目的	もくてき	purpose	L42 L42NEX
+安全	あんぜん	safety	L42 L42NEX
+論文	ろんぶん	thesis, academic paper	L42 L42NEX
+関係	かんけい	relation, connection	L42 L42NEX
+ミキサー		mixer, blender	L42 L42NEX
+やかん		kettle	L42 L42NEX
+栓抜き	せんぬき	cap opener	L42 L42NEX
+缶切り	かんきり	can opener	L42 L42NEX
+缶詰	かんづめ	canned food, tinned food	L42 L42NEX
+ふろしき		wrapping cloth used to carry things	L42 L42NEX
+そろばん		abacus&nbsp;	L42 L42NEX
+体温計	たいおんけい	(clinical) thermometer	L42 L42NEX
+材料	ざいりょう	material, ingredient	L42 L42NEX
+石	いし	stone	L42 L42NEX
+ピラミッド		pyramid	L42 L42NEX
+データ		data	L42 L42NEX
+ファイル		file	L42 L42NEX
+ローン		loan	L42 L42NEX
+セット		set	L42 L42NEX
+あと		the amount left unused, the rest	L42 L42NEX
+カップラーメン		cup ramen	L42 L42NEX
+インスタントラーメン		instant ramen	L42 L42NEX
+なべ		pan, pot	L42 L42NEX
+どんぶり		ceramic bowl	L42 L42NEX
+食品	しょくひん	food	L42 L42NEX
+調査	ちょうさ	investigation, survey	L42 L42NEX
+カップ		cup	L42 L42NEX
+また		and	L42 L42NEX
+～の代わりに	～のかわりに	in place of ～、instead of ～	L42 L42NEX
+どこでも		in any place, anywhere	L42 L42NEX
+[　輸出が～　]　増える	[　ゆしゅつが～　]　ふえる	to increase [ ie. exports ] II	L43 L43NEX
+[　輸出が～　]　減る	[　ゆしゅつが～　]　へる　	to decrease [ ie. exports ] I	L43 L43NEX
+[　値段が～　]　上がる	[　ねだんが～　]　あがる	to rise [ ie. prices ] I	L43 L43NEX
+[　値段が～　]　下がる	[　ねだんが～　]　さがる	to fall [ ie. prices ] I	L43 L43NEX
+[　紐が～　]　切れる	[　ひもが～　]　きれる	to break, to snap [ ie. a string or a chord ] II	L43 L43NEX
+[　ボタンが～　]　とれる		to come off [ ie. a button ] II	L43 L43NEX
+[　荷物が～　]　落ちる	[　荷物が～　]　おちる	to fall down [ ie. baggage ] II	L43 L43NEX
+[　ガソリンが～　]　なくなる		to run out [of gasoline], to be lost I	L43 L43NEX
+丈夫	じょうぶ	strong, healthy	L43 L43NEX
+変	へん	strange, peculiar	L43 L43NEX
+幸せ	しあわせ	happy	L43 L43NEX
+うまい		tasty, good at	L43 L43NEX
+まずい		not tasty	L43 L43NEX
+つまらない		boring, interesting	L43 L43NEX
+火	ひ	fire	L43 L43NEX
+暖房	だんぼう	heating	L43 L43NEX
+冷房	れいぼう	air-conditioning	L43 L43NEX
+センス		taste, sense	L43 L43NEX
+今にも	いまにも	at any moment&nbsp;	L43 L43NEX
+会員	かいいん	member	L43 L43NEX
+適当	てきとう	suitable, proper	L43 L43NEX
+年齢	ねんれい	age	L43 L43NEX
+収入	しゅうにゅう	income	L43 L43NEX
+ぴったり		exactly, just right	L43 L43NEX
+そのうえ		in addition, moreover	L43 L43NEX
+ばら		rose	L43 L43NEX
+ドライブ		driving, drive	L43 L43NEX
+泣く	なく	to cry I	L44 L44NEX
+笑う	わらう	to laugh, to smile I	L44 L44NEX
+乾く	かわく	to dry I	L44 L44NEX
+ぬれる		to get wet II	L44 L44NEX
+滑る	すべる	to slip I	L44 L44NEX
+[　事故が～　]　起きる	[　じこが～　]　おきる	to happen [ ie. an accident ] II	L44 L44NEX
+調節する	ちょうせつする	to adjust III	L44 L44NEX
+丁寧	ていねい	polite, courteous, careful	L44 L44NEX
+細かい	こまかい	small, fine	L44 L44NEX
+濃い	こい	strong (taste), dark (color)	L44 L44NEX
+薄い	うすい	weak (taste), light (color)	L44 L44NEX
+空気	くうき	air, atmosphere	L44 L44NEX
+涙	なみだ	tear	L44 L44NEX
+和食	わしょく	japanese dish	L44 L44NEX
+洋食	ようしょく	western dish	L44 L44NEX
+おかず		side dish	L44 L44NEX
+量	りょう	quantity&nbsp;	L44 L44NEX
+倍	ばい	double, twice	L44 L44NEX
+半分	はんぶん	half	L44 L44NEX
+シングル		single room	L44 L44NEX
+ツイン		twin-bedded room	L44 L44NEX
+たんす		chest of drawers	L44 L44NEX
+洗濯物	せんたくもの	washing, laundry	L44 L44NEX
+理由	りゆう	reason	L44 L44NEX
+どう　なさいますか。		What can i do for you?	L44 L44NEX
+カット		haircut	L44 L44NEX
+シャンプー		shampoo	L44 L44NEX
+どういうふうになさいますか。		How would you like it done?	L44 L44NEX
+ショート		short	L44 L44NEX
+～みたいにしてください。		Do it like ～.	L44 L44NEX
+これでよろしいでしょうか。		Would this be all right?	L44 L44NEX
+お疲れ様でした。	おつかれさまでした。	Thank you for being patient.	L44 L44NEX
+嫌がる	いやがる	to dislike I	L44 L44NEX
+順序	じゅんじょ	order	L44 L44NEX
+表現	ひょうげん	expression	L44 L44NEX
+例えば	たとえば	for example	L44 L44NEX
+分かれる	わかれる	to part, to separate II	L44 L44NEX
+これら		these, these things	L44 L44NEX
+縁起が悪い	えんぎがわるい	unlucky, ill-omened	L44 L44NEX
+謝る	あやまる	to apologize I	L45 L45NEX
+[　事故に～　]　あう	[　じこに～　]　あう	to encounter [ an accident ] I	L45 L45NEX
+信じる	しんじる	to believe, to trust II	L45 L45NEX
+用意する	よういする	to prepare III	L45 L45NEX
+キャンセルする		to cancel III	L45 L45NEX
+うまくいく		to go well	L45 L45NEX
+保証書	ほしょうしょ	guarantee	L45 L45NEX
+領収書	りょうしゅうしょ	receipt	L45 L45NEX
+贈り物	おくりもの	gift, present	L45 L45NEX
+間違い電話	まちがいでんわ	wrong (telephone) number	L45 L45NEX
+キャンプ		camp	L45 L45NEX
+係	かかり	person in charge	L45 L45NEX
+中止	ちゅうし	calling off, cancelling, suspension	L45 L45NEX
+点	てん	point, score	L45 L45NEX
+レバー		lever	L45 L45NEX
+[　－円　]　札	[　－えん　]　さつ	[　ーyen ] note, bill	L45 L45NEX
+ちゃんと		regularly, properly	L45 L45NEX
+急に	きゅうに	suddenly	L45 L45NEX
+楽しみにしている	たのしみにしている	to be looking forward to, to be expecting	L45 L45NEX
+以上です	いじょうです	That's all.	L45 L45NEX
+係員	かかりいん	person in charge, attendant	L45 L45NEX
+コース		course	L45 L45NEX
+スタート		start	L45 L45NEX
+－位	ーい	ーst, ーnd (ranking)	L45 L45NEX
+優勝する	ゆうしょうする	to win the championship III	L45 L45NEX
+悩み	なやみ	trouble, worry	L45 L45NEX
+目覚まし時計	めざましどけい	alarm clock	L45 L45NEX
+目が覚める	めがさめる	to wake up II	L45 L45NEX
+回答	かいとう	answer, reply	L45 L45NEX
+鳴る	なる	to ring I	L45 L45NEX
+セットする		to set	L45 L45NEX
+それでも		nevertheless, for all that	L45 L45NEX
+焼く	やく	to bake, to grill, to roast I	L46 L46NEX
+渡す	わたす	to hand over I	L46 L46NEX
+帰って来る	かえってくる	to come back III	L46 L46NEX
+出る	でる	to leave, to depart II	L46 L46NEX
+留守	るす	absence	L46 L46NEX
+宅配便	たくはいびん	delivery service	L46 L46NEX
+原因	げんいん	cause	L46 L46NEX
+注射	ちゅうしゃ	injection	L46 L46NEX
+食欲	しょくよく	appetite	L46 L46NEX
+パンフレット		pamphlet	L46 L46NEX
+ステレオ		stereo	L46 L46NEX
+こちら		my place, my side	L46 L46NEX
+～の所	～のところ	the place around～	L46 L46NEX
+ちょうど		just, exactly	L46 L46NEX
+たった今	たったいま	just now (used with past tense, indicates completion)	L46 L46NEX
+今いいでしょうか。	いまいいでしょうか。	May I bother you now?	L46 L46NEX
+ガスせービスセンター		gas service center	L46 L46NEX
+ガスレンジ		gas range, gas cooker	L46 L46NEX
+具合	ぐあい	condition	L46 L46NEX
+どちら様でしょうか。	どちらさまでしょうか。	Who is this, please?	L46 L46NEX
+向かう	むかう	to head for I	L46 L46NEX
+お待たせしました	おまたせしました。	Sorry to have kept you waiting.	L46 L46NEX
+知識	ちしき	knowledge	L46 L46NEX
+宝庫	ほうこ	treasury	L46 L46NEX
+[　情報が～　]　手に入る	[　じょうほうが～　]　てにはいる	to come in, to reach [ informations ] I	L46 L46NEX
+システム		system	L46 L46NEX
+キーワード		key word	L46 L46NEX
+一部分	いちぶぶん	one part	L46 L46NEX
+入力する	にゅうりょくする	to input III	L46 L46NEX
+秒	びょう	a second (as in, the duration of 9192631770 periods of the radiation corresponding to the transition between the two hyperfine levels of the ground state of the caesium 133 atom)	L46 L46NEX
+[　本が～　]　出る	[　本が～　]　でる	[ a book ]　to be published II	L46 L46NEX
+[　人が～　]　集まる	[　ひとが～　]　あつまる	to gather [ ie. people] I	L47 L47NEX
+[　人が～　]　別れる	[　ひとが～　]　わかれる	to part, to seperate [ ie. people ] II	L47 L47NEX
+長生きする	ながいきする	to live long III	L47 L47NEX
+音/声がする	おと/こえがする	[ sound / voice ] to be heard III	L47 L47NEX
+味がする	あじがする	to taste III	L47 L47NEX
+においがする		to smell III	L47 L47NEX
+[　傘を～　]　さす	[　かさを～　]　さす	to put up [ an umbrella ] I	L47 L47NEX
+ひどい		terrible, severe, cruel	L47 L47NEX
+怖い	こわい	frightening, horrible	L47 L47NEX
+天気予報	てんきよほう	weather forecast	L47 L47NEX
+発表	はっぴょう	announcement, presentation	L47 L47NEX
+実験	じっけん	experiment	L47 L47NEX
+人口	じんこう	population	L47 L47NEX
+におい		smell	L47 L47NEX
+科学	かがく	science	L47 L47NEX
+医学	いがく	medicine, medical science	L47 L47NEX
+文学	ぶんがく	literature	L47 L47NEX
+パトカー		patrol car	L47 L47NEX
+救急車	きゅうきゅうしゃ	ambulance	L47 L47NEX
+賛成	さんせい	approval, agreement	L47 L47NEX
+反対	はんたい	objection, opposition	L47 L47NEX
+男性	だんせい	male, man	L47 L47NEX
+女性	じょせい	female, woman	L47 L47NEX
+～によろと		according to ～ (indicates the source of information)	L47 L47NEX
+恋人	こいびと	sweetheart, boyfriend, girlfriend, lover	L47 L47NEX
+婚約する	こんやくする	to get engaged III	L47 L47NEX
+相手	あいて	the other person	L47 L47NEX
+知り合う	しりあう	to get acquainted I	L47 L47NEX
+平均寿命	へいきんじゅみょう	average life span	L47 L47NEX
+比べる	くらべる	to compare with, compared to II	L47 L47NEX
+博士	はかせ	doctor (as in doctorate, phd)	L47 L47NEX
+脳	のう	brain	L47 L47NEX
+ホルモン		hormone	L47 L47NEX
+化粧品	けしょうひん	cosmetics	L47, L47NEX
+調べ	しらべ	survey, research	L47, L47NEX
+化粧	けしょう	makeup	L47, L47NEX
+下ろす/ 降ろす	おろす	to put down, do lower I	L48 L48NEX
+届ける	とどける	to deliver, to report	L48 L48NEX
+嫌	いや	unwilling, reluctant	L48 L48NEX
+厳しい	きびしい	strict, hard	L48 L48NEX
+塾	じゅく	cram school	L48 L48NEX
+スケジュール		schedule	L48 L48NEX
+生徒	せいと	pupil	L48 L48NEX
+者	もの	person (refers to one's relatives or subordinates)	L48 L48NEX
+入管	にゅうかん	Immigration Bureau	L48 L48NEX
+再入国ビザ	さいにゅうこくビザ	re-entry visa	L48 L48NEX
+自由に	じゆうに	freely	L48 L48NEX
+～間	～かん	for ～ (referring to duration)	L48 L48NEX
+いいことですね		That's good.	L48 L48NEX
+お忙しいですか。	おいそがしいですか。	Are you busy? (used when talking to someone senior or older)	L48 L48NEX
+久しぶり	ひさしぶり	after a long time	L48 L48NEX
+営業	えいぎょう	business, sales	L48 L48NEX
+それまでに		by that time	L48 L48NEX
+かまいません。		It's all right. / It doesn't matter.<br />	L48 L48NEX
+楽しむ	たのしむ	to enjoy oneself I	L48 L48NEX
+もともと		originally	L48 L48NEX
+代わりをする	かわりをする	to be a substitute, to be a replacement	L48 L48NEX
+スピード		speed	L48 L48NEX
+競走する	きょうそうする	to race III	L48 L48NEX
+サーカス		circus	L48 L48NEX
+芸	げい	performance, trick	L48 L48NEX
+美しい	うつくしい	beautiful	L48 L48NEX
+姿	すがた	figure, appearance	L48 L48NEX
+心	こころ	heart, mind	L48 L48NEX
+とらえる		to catch II	L48 L48NEX
+～にとって		for ～	L48 L48NEX
+[　会社に～　]　勤める	[　かいしゃに～　]　つとめる	to work [ for a company ] II	L49 L49NEX
+休む	やすむ	to go to bed, to sleep I	L49 L49NEX
+[　椅子に～　]　掛ける	[　いすに～　]　かける	to sit [ on a chair ] II	L49 L49NEX
+過ごす	すごす	to spend (time), to pass (time) I	L49 L49NEX
+[　銀行に～　]　寄る	[　ぎんこうに～　]　よる	to drop into [ a bank ]	L49 L49NEX
+いらっしゃいます		to be, to go, to come (respectful equivalent of います、行きます、来ます) I	L49 L49NEX
+召し上がる	めしあがる	to eat, to drink (respectful equivalent of 食べます、飲む) I	L49 L49NEX
+おっしゃいます		to say (respectful equivalent of 言います) I	L49 L49NEX
+なさいます		to do (respectful equivalent of します) I	L49 L49NEX
+ご覧になる	ごらんになる	to see, to look at (respectful equivalent of 見ます) I	L49 L49NEX
+ご存知です	ごぞんじです	to know (respectful equivalent of しっています)&nbsp;	L49 L49NEX
+あいさつ		greeting, address	L49 L49NEX
+灰皿	はいざら	ashtray	L49 L49NEX
+旅館	りょかん	japanese-style hotel or inn	L49 L49NEX
+会場	かいじょう	meeting place	L49 L49NEX
+バス停	バスてい	bus stop	L49 L49NEX
+貿易	ぼうえき	trade	L49 L49NEX
+～様	～さま	respectful equivalent of ～さん	L49 L49NEX
+帰りに	かえりに	on the way back	L49 L49NEX
+たまに		once in a while	L49 L49NEX
+ちっとも		not at all (used with negatives)	L49 L49NEX
+遠慮なく	えんりょなく	without reserve, without hesitation	L49 L49NEX
+ー年ー組	ーねんーくみ	class ー of ーth grade	L49 L49NEX
+では		well, then (polite equivalent of じゃ)	L49 L49NEX
+[　熱を～　]　出す	[　ねつを～　]　だす	to run [ a fever ]	L49 L49NEX
+よろしくお伝えください。	よろしくおつたえください。	Give my best regards. / Please say hello.	L49 L49NEX
+失礼いたします	しつれいいたします	Goodbye (humble equivalent of 失礼します)	L49 L49NEX
+講師	こうし	lecturer	L49 L49NEX
+多くの～	おおくの～	many ～、much ～	L49 L49NEX
+作品	さくひん	work (of art, etc.)	L49 L49NEX
+受賞する	じゅしょうする	to be awarded a prize III	L49 L49NEX
+世界的に	せかいてきに	world-wide	L49 L49NEX
+作家	さっか	novelist, writer	L49 L49NEX
+～でいらっしゃいます		to be (respectful equivalent of です)　I	L49 L49NEX
+長男	ちょうなん	one's eldest son	L49 L49NEX
+障害	しょうがい	handicap, defect	L49 L49NEX
+お持ちです	おもちです	have (respectful way of saying 持っています)	L49 L49NEX
+作曲	さっきょく	composition (music)	L49 L49NEX
+活動	かつどう	activity	L49 L49NEX
+それでは		well, so (indicating an end or beginning)	L49 L49NEX
+参ります	まいります	to go, to come (humble equivalent of 行きます、来ます)　I	L50 L50NEX
+おります		to be (humble equivalent of います)	L50 L50NEX
+いただきます		to eat, to drink, to receive (humble equivalent of 食べます、飲む、もらいます) I	L50 L50NEX
+申します	もうします	to say (humble equivalent of 言います) I	L50 L50NEX
+いたします		to do (humble equivalent of します) I	L50 L50NEX
+拝見します	はいけんします	to see (humble equivalent of 見ます) III	L50 L50NEX
+存じます	そんじます	to know (humble equivalent of 知ます) II	L50 L50NEX
+伺います	うかがいます	to ask, to hear, to visit (humble equivalent of 聞きます、いきます) I	L50 L50NEX
+お目にかかる	おめにかかる	to meet (humble equivalent of 会います) I	L50 L50NEX
+ございます		to be (polite equivalent of あります) I	L50 L50NEX
+～でございます		to be (polite equivalent of です)	L50 L50NEX
+私	わたくし	I (humble equivalent of 私)	L50 L50NEX
+ガイド		guide	L50 L50NEX
+お宅	おたく	(someone else's) house	L50 L50NEX
+郊外	こうがい	suburbs	L50 L50NEX
+アルバム		album	L50 L50NEX
+再来週	さらいしゅう	the week after next	L50 L50NEX
+再来月	さらいげつ	the month after next	L50 L50NEX
+再来年	さらいねん	the year after next	L50 L50NEX
+半年	はんとし	half a year	L50 L50NEX
+最初に	さいしょに	first of all	L50 L50NEX
+最後に	さいごに	lastly	L50 L50NEX
+ただ今	ただいま	now	L50 L50NEX
+緊張する	きんちょうする	to become tense, to become strained III	L50 L50NEX
+放送する	ほうそうする	to broadcast III	L50 L50NEX
+撮る	とる	to record, to videotape I	L50 L50NEX
+賞金	しょうきん	prize money	L50 L50NEX
+自然	しぜん	nature	L50 L50NEX
+きりん		giraffe	L50 L50NEX
+像	ぞう	elephant	L50 L50NEX
+ころ		times, days	L50 L50NEX
+かなう		to be realized (ie. dreams) I	L50 L50NEX
+一言よろしいでしょうか。	ひとことよろしいでしょうか。	May I say one word?	L50 L50NEX
+協力する	きょうりょくする	to cooperate　III	L50 L50NEX
+感謝する	かんしゃする	to be grateful, to be thankful III	L50 L50NEX
+お礼	おれい	gratitude, thanks	L50 L50NEX
+拝啓	はいけい	Dear ～	L50 L50NEX
+迷惑をかける	めいわくをかける	to trouble, to annoy, to inconvenience II	L50 L50NEX
+生かす	いかす	to make good use of　～　I	L50 L50NEX
+敬具	けいぐ	sincerely yours	L50 L50NEX
